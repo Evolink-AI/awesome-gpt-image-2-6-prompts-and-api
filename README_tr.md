@@ -42,13 +42,7 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 | [Esneme animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Pilav yiyen çıkartma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Göz kırpan karakter](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Dairelerle yönlendirilen Noel düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Çay Portresi Sürüm Karşılaştırması](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Sahneyi Koruyarak Çiçeği Kaldırma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Reklam Panosunu Karlı Akşama Dönüştürme](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**Resmî SVG örnekleri — istem sayısına dahil değildir**
-
-Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıktılarıdır. [Resmî örneği ve tüm kurulum ayrıntılarını inceleyin](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). Bu gösterim istem örneği sayısını artırmaz.
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="Flare ile resmî fırın logosu SVG çıktısı"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="Sunburst ile resmî fırın logosu SVG çıktısı"></td></tr>
-</table>
+**[Demo galerisi](#demo-wall)** · [GIF animasyonları](#demo-gif) · [SVG vektör grafikleri](#demo-svg)
 
 - **2026-10-26:** İlk derleme: Özgün kaynaklar ve üretici medyasıyla birlikte yedi kategoride 250 eksiksiz istem.
 
@@ -58,6 +52,7 @@ Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıkt�
 - [🍌 Giriş](#introduction)
 - [⚡ Hızlı Başlangıç](#quick-start)
 - [📰 Güncellemeler](#news)
+- [🎞️ Demo galerisi](#demo-wall)
 
 - **[GPT Image 2.6 — En Yeni](cases/tr/gpt-image-2-6.md)** · 10
   - [Örnek 251: Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@ Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıkt�
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — Ürün ve e-ticaret örnekleri.
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — Görselden videoya iş akışı örnekleri.
+
+<a id="demo-wall"></a>
+## 🎞️ Demo galerisi
+
+10 GIF demosunu ve 4 SVG örneğini keşfedin. Galeri, tam istem koleksiyonundan ayrı sayılır.
+
+<a id="demo-gif"></a>
+### GIF animasyonları
+
+Döngülü önizlemeler sayfada oynar. Karşılaştırmayı veya iş akışını görmek için video küçük resmini seçin.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Fuşya çiçeklerinin yanında sinek kuşu](https://x.com/ann_nnng/status/2118531463146864703)** — hazırlayan [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Fuşya çiçeklerinin yanında sinek kuşu">
+
+</td>
+<td width="50%" valign="top">
+
+**[Bisiklete binen pelikan](https://x.com/GKev1n/status/2118134129762181127)** — hazırlayan [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Bisiklete binen pelikan">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Sarılmış anime arkadaşları](https://x.com/aya_exai/status/2118282589190721723)** — hazırlayan [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Sarılmış anime arkadaşları">
+
+</td>
+<td width="50%" valign="top">
+
+**[Pirinç kâseli Big Fish çıkartması](https://x.com/zane_os/status/2118197925587382377)** — hazırlayan [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Pirinç kâseli Big Fish çıkartması">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Dans eden chibi karakter](https://x.com/798145343h/status/2118164732989608405)** — hazırlayan [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Dans eden chibi karakter">
+
+</td>
+<td width="50%" valign="top">
+
+**[Piksel animasyonu karşılaştırması](https://x.com/WrongNebula/status/2118164394400182755)** — hazırlayan [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Piksel animasyonu karşılaştırması">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Kalp atışı dansı karşılaştırması](https://x.com/Mayz1169/status/2118241781074862569)** — hazırlayan [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Videoyu oynat · Kalp atışı dansı karşılaştırması"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Durduğu yerden ters takla karşılaştırması](https://x.com/gabrielchua/status/2118135343354720648)** — hazırlayan [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Videoyu oynat · Durduğu yerden ters takla karşılaştırması"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[İki animasyonlu tembel hayvan](https://x.com/Sogni_Protocol/status/2118285143030845642)** — hazırlayan [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Videoyu oynat · İki animasyonlu tembel hayvan"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[GIF ifadeleri olan cep kedisi](https://x.com/higgsfield_ai/status/2118149692253200889)** — hazırlayan [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Videoyu oynat · GIF ifadeleri olan cep kedisi"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG vektör grafikleri
+
+OpenAI’ın iki logosu SVG dosyası olarak açılır. Topluluk örnekleri, iş akışını gösteren videolardır.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour fırın logosu · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — hazırlayan [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour fırın logosu · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour fırın logosu · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — hazırlayan [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour fırın logosu · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Bulanık bir logoyu vektöre dönüştürme](https://x.com/EHuanglu/status/2118166856498638932)** — hazırlayan [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Videoyu oynat · Bulanık bir logoyu vektöre dönüştürme"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Vektör çöp adamları ölçeklendirme ve renklendirme](https://x.com/higgsfield_ai/status/2118149257140306238)** — hazırlayan [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Videoyu oynat · Vektör çöp adamları ölçeklendirme ve renklendirme"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 Teşekkürler

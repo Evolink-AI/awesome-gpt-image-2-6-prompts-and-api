@@ -1,5 +1,9 @@
 # Updates
 
+## 2026-11-08
+
+Added a GPT Image 2.6 Demo Wall in all 11 languages with ten GIF demos and four SVG examples. The SVG section includes two OpenAI vector files and two community workflow videos. Each item links to its original source. The prompt collection contains 260 cases.
+
 ## 2026-11-07
 
 Updated the banner, browser badge and quick-start links in all 11 languages to the GPT Image 2.6 model detail page. Existing campaign tracking is preserved.

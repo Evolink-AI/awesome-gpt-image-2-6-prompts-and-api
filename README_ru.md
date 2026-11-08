@@ -42,13 +42,7 @@
 | [Анимация потягивания](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Стикер с миской риса](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Моргающий персонаж](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Праздничная правка по круговым меткам](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [Анимация облёта Белого дома](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Сравнение версий портрета с чаем](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Удаление цветка с сохранением сцены](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Заснеженный вечер на рекламном щите](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**Официальные SVG-примеры — вне числа промптов**
-
-Эти логотипы пекарни — опубликованные результаты 2.6 из демонстрации SVG от OpenAI. [Посмотреть официальный пример и полные условия его создания](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). Эти демонстрации не увеличивают число примеров с промптами.
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="Официальный SVG-логотип пекарни от Flare"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="Официальный SVG-логотип пекарни от Sunburst"></td></tr>
-</table>
+**[Галерея демо](#demo-wall)** · [GIF-анимация](#demo-gif) · [Векторная графика SVG](#demo-svg)
 
 - **2026-10-26:** Первая подборка: 250 полных промптов в семи категориях с оригинальными источниками и материалами авторов.
 
@@ -58,6 +52,7 @@
 - [🍌 Введение](#introduction)
 - [⚡ Быстрый старт](#quick-start)
 - [📰 Обновления](#news)
+- [🎞️ Галерея демо](#demo-wall)
 
 - **[GPT Image 2.6 — Новое](cases/ru/gpt-image-2-6.md)** · 10
   - [Пример 251: Анимация облёта Белого дома](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — Примеры для товаров и электронной торговли.
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — Примеры рабочих процессов превращения изображений в видео.
+
+<a id="demo-wall"></a>
+## 🎞️ Галерея демо
+
+В галерее 10 демонстраций GIF и 4 примера SVG. Они учитываются отдельно от коллекции полных промптов.
+
+<a id="demo-gif"></a>
+### GIF-анимация
+
+Зацикленные фрагменты воспроизводятся прямо на странице. Нажмите на миниатюру видео, чтобы посмотреть сравнение или процесс работы.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Колибри у цветов фуксии](https://x.com/ann_nnng/status/2118531463146864703)** — автор [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Колибри у цветов фуксии">
+
+</td>
+<td width="50%" valign="top">
+
+**[Пеликан на велосипеде](https://x.com/GKev1n/status/2118134129762181127)** — автор [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Пеликан на велосипеде">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Объятия подруг из аниме](https://x.com/aya_exai/status/2118282589190721723)** — автор [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Объятия подруг из аниме">
+
+</td>
+<td width="50%" valign="top">
+
+**[Стикер Big Fish с миской риса](https://x.com/zane_os/status/2118197925587382377)** — автор [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Стикер Big Fish с миской риса">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Танцующий персонаж чиби](https://x.com/798145343h/status/2118164732989608405)** — автор [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Танцующий персонаж чиби">
+
+</td>
+<td width="50%" valign="top">
+
+**[Сравнение пиксельной анимации](https://x.com/WrongNebula/status/2118164394400182755)** — автор [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Сравнение пиксельной анимации">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Сравнение танца в ритме сердца](https://x.com/Mayz1169/status/2118241781074862569)** — автор [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Воспроизвести видео · Сравнение танца в ритме сердца"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Сравнение сальто назад с места](https://x.com/gabrielchua/status/2118135343354720648)** — автор [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Воспроизвести видео · Сравнение сальто назад с места"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Два анимированных ленивца](https://x.com/Sogni_Protocol/status/2118285143030845642)** — автор [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Воспроизвести видео · Два анимированных ленивца"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Карманный кот с эмоциями в GIF](https://x.com/higgsfield_ai/status/2118149692253200889)** — автор [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Воспроизвести видео · Карманный кот с эмоциями в GIF"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### Векторная графика SVG
+
+Два логотипа OpenAI открываются как файлы SVG. Примеры сообщества открываются как видео с процессом работы.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Логотип пекарни Field & Flour · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — автор [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Логотип пекарни Field &amp; Flour · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Логотип пекарни Field & Flour · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — автор [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Логотип пекарни Field &amp; Flour · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Векторизация размытого логотипа](https://x.com/EHuanglu/status/2118166856498638932)** — автор [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Воспроизвести видео · Векторизация размытого логотипа"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Масштабирование и перекраска векторных человечков](https://x.com/higgsfield_ai/status/2118149257140306238)** — автор [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Воспроизвести видео · Масштабирование и перекраска векторных человечков"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 Благодарности

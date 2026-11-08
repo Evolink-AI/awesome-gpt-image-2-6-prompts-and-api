@@ -42,13 +42,7 @@
 | [스트레칭 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-256) · [밥 먹는 스티커](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-257) · [눈을 깜박이는 캐릭터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259) | [원 표시 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [백악관 주위 회전](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251) · [차를 든 인물 비교](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-254) | [꽃 제거](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-252) · [눈 내리는 광고판](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**공식 SVG 예시 — 프롬프트 수에 포함하지 않음**
-
-이 베이커리 로고는 OpenAI의 SVG 데모에서 공개한 2.6 출력물입니다. [공식 예시와 전체 설정 확인하기](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). 이 전시 항목은 프롬프트 사례 수를 늘리지 않습니다.
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="공식 Flare 베이커리 로고 SVG"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="공식 Sunburst 베이커리 로고 SVG"></td></tr>
-</table>
+**[데모 갤러리](#demo-wall)** · [GIF 애니메이션](#demo-gif) · [SVG 벡터 그래픽](#demo-svg)
 
 - **2026-10-26:** 첫 모음: 일곱 카테고리의 프롬프트 전문 250개를 원본 출처 및 제작자의 이미지·영상과 함께 수록했습니다.
 
@@ -58,6 +52,7 @@
 - [🍌 소개](#introduction)
 - [⚡ 시작하기](#quick-start)
 - [📰 업데이트](#news)
+- [🎞️ 데모 갤러리](#demo-wall)
 
 - **[GPT Image 2.6 — 최신](cases/ko/gpt-image-2-6.md)** · 10
   - [사례 251: 백악관 주위 회전 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — 제품 및 커머스 활용 예시.
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — 이미지를 영상으로 만드는 작업 흐름 예시.
+
+<a id="demo-wall"></a>
+## 🎞️ 데모 갤러리
+
+GIF 데모 10개와 SVG 예시 4개를 볼 수 있습니다. 갤러리 항목은 전체 프롬프트 컬렉션과 별도로 집계합니다.
+
+<a id="demo-gif"></a>
+### GIF 애니메이션
+
+반복 애니메이션은 페이지에서 재생됩니다. 동영상 미리보기를 선택하면 비교 결과나 작업 과정을 볼 수 있습니다.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[푸크시아 꽃 곁의 벌새](https://x.com/ann_nnng/status/2118531463146864703)** — 제작 [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="푸크시아 꽃 곁의 벌새">
+
+</td>
+<td width="50%" valign="top">
+
+**[자전거를 타는 펠리컨](https://x.com/GKev1n/status/2118134129762181127)** — 제작 [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="자전거를 타는 펠리컨">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[서로 안는 애니메이션 친구들](https://x.com/aya_exai/status/2118282589190721723)** — 제작 [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="서로 안는 애니메이션 친구들">
+
+</td>
+<td width="50%" valign="top">
+
+**[밥그릇을 든 빅피시 스티커](https://x.com/zane_os/status/2118197925587382377)** — 제작 [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="밥그릇을 든 빅피시 스티커">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[춤추는 치비 캐릭터](https://x.com/798145343h/status/2118164732989608405)** — 제작 [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="춤추는 치비 캐릭터">
+
+</td>
+<td width="50%" valign="top">
+
+**[픽셀 아트 애니메이션 비교](https://x.com/WrongNebula/status/2118164394400182755)** — 제작 [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="픽셀 아트 애니메이션 비교">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[하트비트 댄스 비교](https://x.com/Mayz1169/status/2118241781074862569)** — 제작 [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="동영상 재생 · 하트비트 댄스 비교"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[제자리 백플립 비교](https://x.com/gabrielchua/status/2118135343354720648)** — 제작 [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="동영상 재생 · 제자리 백플립 비교"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[움직이는 나무늘보 두 마리](https://x.com/Sogni_Protocol/status/2118285143030845642)** — 제작 [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="동영상 재생 · 움직이는 나무늘보 두 마리"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[기분을 GIF로 표현하는 포켓 고양이](https://x.com/higgsfield_ai/status/2118149692253200889)** — 제작 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="동영상 재생 · 기분을 GIF로 표현하는 포켓 고양이"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG 벡터 그래픽
+
+OpenAI 로고 두 개는 SVG 파일로 열립니다. 커뮤니티 예시는 작업 과정을 담은 동영상으로 열립니다.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour 베이커리 로고 · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 제작 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour 베이커리 로고 · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour 베이커리 로고 · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 제작 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour 베이커리 로고 · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[흐릿한 로고 벡터화](https://x.com/EHuanglu/status/2118166856498638932)** — 제작 [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="동영상 재생 · 흐릿한 로고 벡터화"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[벡터 막대 인물의 크기와 색 바꾸기](https://x.com/higgsfield_ai/status/2118149257140306238)** — 제작 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="동영상 재생 · 벡터 막대 인물의 크기와 색 바꾸기"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 감사의 말

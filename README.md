@@ -42,13 +42,7 @@ Brand, character and celebrity examples are creator concepts, not official campa
 | [Stretching animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Rice bowl sticker](cases/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Blinking character](cases/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Circle-guided holiday edit](cases/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [White House orbit](cases/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Tea portrait comparison](cases/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Flower removal](cases/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Snowy billboard](cases/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**Official SVG showcase — outside the prompt count**
-
-These bakery logos are published 2.6 outputs from OpenAI’s SVG demonstration. [Inspect the official example and its full setup](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). The showcase adds no prompt cases.
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="Official Flare bakery logo SVG"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="Official Sunburst bakery logo SVG"></td></tr>
-</table>
+**[Demo Wall](#demo-wall)** · [GIF animation](#demo-gif) · [SVG vector graphics](#demo-svg)
 
 - **2026-10-26:** Initial collection: 250 complete prompts in seven categories, with original sources and creator media.
 
@@ -58,6 +52,7 @@ These bakery logos are published 2.6 outputs from OpenAI’s SVG demonstration. 
 - [🍌 Introduction](#introduction)
 - [⚡ Quick Start](#quick-start)
 - [📰 News](#news)
+- [🎞️ Demo Wall](#demo-wall)
 
 - **[GPT Image 2.6 — Latest](cases/gpt-image-2-6.md)** · 10
   - [Case 251: White House Orbit Animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@ These bakery logos are published 2.6 outputs from OpenAI’s SVG demonstration. 
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — Product and commerce examples.
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — Image-to-video workflow examples.
+
+<a id="demo-wall"></a>
+## 🎞️ Demo Wall
+
+Explore 10 GIF demos and 4 SVG examples. The gallery has its own count, separate from the complete prompt collection.
+
+<a id="demo-gif"></a>
+### GIF animation
+
+Looping previews play inline. Select a video thumbnail to watch a comparison or a workflow.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Hummingbird by fuchsia flowers](https://x.com/ann_nnng/status/2118531463146864703)** — by [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Hummingbird by fuchsia flowers">
+
+</td>
+<td width="50%" valign="top">
+
+**[Pelican on a bicycle](https://x.com/GKev1n/status/2118134129762181127)** — by [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Pelican on a bicycle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Anime friends hugging](https://x.com/aya_exai/status/2118282589190721723)** — by [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Anime friends hugging">
+
+</td>
+<td width="50%" valign="top">
+
+**[Big Fish rice bowl sticker](https://x.com/zane_os/status/2118197925587382377)** — by [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Big Fish rice bowl sticker">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Dancing chibi character](https://x.com/798145343h/status/2118164732989608405)** — by [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Dancing chibi character">
+
+</td>
+<td width="50%" valign="top">
+
+**[Pixel art animation comparison](https://x.com/WrongNebula/status/2118164394400182755)** — by [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Pixel art animation comparison">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Heartbeat dance comparison](https://x.com/Mayz1169/status/2118241781074862569)** — by [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Play video · Heartbeat dance comparison"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Standing backflip comparison](https://x.com/gabrielchua/status/2118135343354720648)** — by [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Play video · Standing backflip comparison"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Animated sloth pair](https://x.com/Sogni_Protocol/status/2118285143030845642)** — by [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Play video · Animated sloth pair"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Pocket cat with GIF moods](https://x.com/higgsfield_ai/status/2118149692253200889)** — by [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Play video · Pocket cat with GIF moods"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG vector graphics
+
+The two OpenAI logos open as SVG files. The community examples open as workflow videos.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour bakery logo · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — by [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour bakery logo · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour bakery logo · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — by [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour bakery logo · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Vectorizing a blurry logo](https://x.com/EHuanglu/status/2118166856498638932)** — by [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Play video · Vectorizing a blurry logo"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Scaling and recoloring vector stick figures](https://x.com/higgsfield_ai/status/2118149257140306238)** — by [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Play video · Scaling and recoloring vector stick figures"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 Acknowledge

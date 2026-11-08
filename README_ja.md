@@ -42,13 +42,7 @@
 | [ストレッチ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-256) · [ご飯スタンプ](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-257) · [まばたきするキャラクター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259) | [丸印で指定するクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [ホワイトハウスの周回](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251) · [紅茶ポートレート比較](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花の除去](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪景色の看板](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**公式SVG作例 — プロンプト件数には含めません**
-
-このベーカリーのロゴは、OpenAIがSVGのデモで公開した2.6の出力です。 [公式作例と設定の全文を確認する](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)。 この展示によってプロンプト件数は増えません。
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="公式FlareのベーカリーロゴSVG"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="公式SunburstのベーカリーロゴSVG"></td></tr>
-</table>
+**[デモギャラリー](#demo-wall)** · [GIF アニメーション](#demo-gif) · [SVG ベクターグラフィックス](#demo-svg)
 
 - **2026-10-26:** 初回コレクションとして、7カテゴリー・250件のプロンプト全文を、出典と作者の画像・動画とともに掲載しました。
 
@@ -58,6 +52,7 @@
 - [🍌 はじめに](#introduction)
 - [⚡ 使い方](#quick-start)
 - [📰 更新情報](#news)
+- [🎞️ デモギャラリー](#demo-wall)
 
 - **[GPT Image 2.6 — 最新](cases/ja/gpt-image-2-6.md)** · 10
   - [ケース 251: ホワイトハウスの周回アニメーション](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — 商品・コマース向けの作例。
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — 画像から動画を制作するワークフローの作例。
+
+<a id="demo-wall"></a>
+## 🎞️ デモギャラリー
+
+GIF デモ 10 件と SVG の作例 4 件を掲載しています。完全なプロンプトのコレクションとは別に集計しています。
+
+<a id="demo-gif"></a>
+### GIF アニメーション
+
+ループするプレビューはページ上で再生されます。動画のサムネイルを選ぶと、比較や制作手順を確認できます。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[フクシアの花とハチドリ](https://x.com/ann_nnng/status/2118531463146864703)** — 作者 [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="フクシアの花とハチドリ">
+
+</td>
+<td width="50%" valign="top">
+
+**[自転車に乗るペリカン](https://x.com/GKev1n/status/2118134129762181127)** — 作者 [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="自転車に乗るペリカン">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[抱き合うアニメの友だち](https://x.com/aya_exai/status/2118282589190721723)** — 作者 [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="抱き合うアニメの友だち">
+
+</td>
+<td width="50%" valign="top">
+
+**[ご飯茶碗を持つ大肥魚のスタンプ](https://x.com/zane_os/status/2118197925587382377)** — 作者 [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="ご飯茶碗を持つ大肥魚のスタンプ">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[踊るちびキャラ](https://x.com/798145343h/status/2118164732989608405)** — 作者 [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="踊るちびキャラ">
+
+</td>
+<td width="50%" valign="top">
+
+**[ドット絵アニメーションの比較](https://x.com/WrongNebula/status/2118164394400182755)** — 作者 [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="ドット絵アニメーションの比較">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ハートビートダンスの比較](https://x.com/Mayz1169/status/2118241781074862569)** — 作者 [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="動画を再生 · ハートビートダンスの比較"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[立ちバック宙の比較](https://x.com/gabrielchua/status/2118135343354720648)** — 作者 [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="動画を再生 · 立ちバック宙の比較"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[動くナマケモノのペア](https://x.com/Sogni_Protocol/status/2118285143030845642)** — 作者 [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="動画を再生 · 動くナマケモノのペア"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[気分を GIF で表すポケット猫](https://x.com/higgsfield_ai/status/2118149692253200889)** — 作者 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="動画を再生 · 気分を GIF で表すポケット猫"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG ベクターグラフィックス
+
+OpenAI のロゴ 2 点は SVG ファイルとして開けます。コミュニティの作例は制作手順を収めた動画です。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour ベーカリーのロゴ · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 作者 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour ベーカリーのロゴ · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour ベーカリーのロゴ · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 作者 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour ベーカリーのロゴ · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ぼやけたロゴのベクター化](https://x.com/EHuanglu/status/2118166856498638932)** — 作者 [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="動画を再生 · ぼやけたロゴのベクター化"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[ベクターの棒人間を拡大して色を変更](https://x.com/higgsfield_ai/status/2118149257140306238)** — 作者 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="動画を再生 · ベクターの棒人間を拡大して色を変更"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 謝辞

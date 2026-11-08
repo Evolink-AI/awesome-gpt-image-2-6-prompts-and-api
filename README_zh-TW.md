@@ -42,13 +42,7 @@
 | [角色伸展動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-256) · [吃飯表情動圖](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-257) · [角色眨眼動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-259) | [圈選聖誕編輯](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [白宮環繞](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-251) · [持茶人像比較](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花朵移除](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪夜廣告看板](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**官方SVG展示 — 不計入提示詞數量**
-
-這些烘焙店標誌是OpenAI在SVG示範中公開的2.6輸出。 [查看官方作例與完整設定](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)。 此展示不增加提示詞案例數量。
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="官方Flare烘焙店標誌SVG"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="官方Sunburst烘焙店標誌SVG"></td></tr>
-</table>
+**[Demo 牆](#demo-wall)** · [GIF 動畫](#demo-gif) · [SVG 向量圖](#demo-svg)
 
 - **2026-10-26:** 首次收錄七個分類、250條完整提示詞，附上原始來源與創作者的圖片、影片。
 
@@ -58,6 +52,7 @@
 - [🍌 簡介](#introduction)
 - [⚡ 快速開始](#quick-start)
 - [📰 更新消息](#news)
+- [🎞️ Demo 牆](#demo-wall)
 
 - **[GPT Image 2.6 — 最新](cases/zh-TW/gpt-image-2-6.md)** · 10
   - [案例 251: 白宮環繞動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-251)
@@ -336,6 +331,139 @@
 
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — 商品與電商應用作例。
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — 從圖片製作影片的工作流程作例。
+
+<a id="demo-wall"></a>
+## 🎞️ Demo 牆
+
+這裡有 10 個 GIF 示範和 4 個 SVG 範例，與完整提示詞案例分開計數。
+
+<a id="demo-gif"></a>
+### GIF 動畫
+
+循環動畫可直接在頁面上播放。點擊影片封面可觀看比較或製作流程。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[倒掛金鐘花旁的蜂鳥](https://x.com/ann_nnng/status/2118531463146864703)** — 作者 [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="倒掛金鐘花旁的蜂鳥">
+
+</td>
+<td width="50%" valign="top">
+
+**[騎腳踏車的鵜鶘](https://x.com/GKev1n/status/2118134129762181127)** — 作者 [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="騎腳踏車的鵜鶘">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[相擁的動漫好友](https://x.com/aya_exai/status/2118282589190721723)** — 作者 [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="相擁的動漫好友">
+
+</td>
+<td width="50%" valign="top">
+
+**[大肥魚飯碗貼圖](https://x.com/zane_os/status/2118197925587382377)** — 作者 [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="大肥魚飯碗貼圖">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[跳舞的 Q 版角色](https://x.com/798145343h/status/2118164732989608405)** — 作者 [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="跳舞的 Q 版角色">
+
+</td>
+<td width="50%" valign="top">
+
+**[像素動畫比較](https://x.com/WrongNebula/status/2118164394400182755)** — 作者 [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="像素動畫比較">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[心跳舞比較](https://x.com/Mayz1169/status/2118241781074862569)** — 作者 [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="播放影片 · 心跳舞比較"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[原地後空翻比較](https://x.com/gabrielchua/status/2118135343354720648)** — 作者 [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="播放影片 · 原地後空翻比較"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[兩隻動起來的樹懶](https://x.com/Sogni_Protocol/status/2118285143030845642)** — 作者 [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="播放影片 · 兩隻動起來的樹懶"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[用 GIF 表達心情的口袋貓](https://x.com/higgsfield_ai/status/2118149692253200889)** — 作者 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="播放影片 · 用 GIF 表達心情的口袋貓"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG 向量圖
+
+OpenAI 的兩款標誌可開啟為 SVG 檔。社群範例提供製作流程影片。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour 烘焙店標誌 · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 作者 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour 烘焙店標誌 · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour 烘焙店標誌 · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — 作者 [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour 烘焙店標誌 · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[模糊標誌轉向量](https://x.com/EHuanglu/status/2118166856498638932)** — 作者 [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="播放影片 · 模糊標誌轉向量"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[縮放及換色的向量火柴人](https://x.com/higgsfield_ai/status/2118149257140306238)** — 作者 [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="播放影片 · 縮放及換色的向量火柴人"></a>
+
+</td>
+</tr>
+</table>
 
 <a id="acknowledge"></a>
 ## 🙏 致謝
