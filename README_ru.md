@@ -348,14 +348,14 @@
 
 **[Колибри у цветов фуксии](https://x.com/ann_nnng/status/2118531463146864703)** — автор [@ann_nnng](https://x.com/ann_nnng)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Колибри у цветов фуксии">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="120" alt="Колибри у цветов фуксии">
 
 </td>
 <td width="50%" valign="top">
 
 **[Пеликан на велосипеде](https://x.com/GKev1n/status/2118134129762181127)** — автор [@GKev1n](https://x.com/GKev1n)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Пеликан на велосипеде">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="120" alt="Пеликан на велосипеде">
 
 </td>
 </tr>
@@ -364,14 +364,14 @@
 
 **[Объятия подруг из аниме](https://x.com/aya_exai/status/2118282589190721723)** — автор [@aya_exai](https://x.com/aya_exai)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Объятия подруг из аниме">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="120" alt="Объятия подруг из аниме">
 
 </td>
 <td width="50%" valign="top">
 
 **[Стикер Big Fish с миской риса](https://x.com/zane_os/status/2118197925587382377)** — автор [@zane_os](https://x.com/zane_os)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Стикер Big Fish с миской риса">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="120" alt="Стикер Big Fish с миской риса">
 
 </td>
 </tr>
@@ -380,14 +380,14 @@
 
 **[Танцующий персонаж чиби](https://x.com/798145343h/status/2118164732989608405)** — автор [@798145343h](https://x.com/798145343h)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Танцующий персонаж чиби">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="120" alt="Танцующий персонаж чиби">
 
 </td>
 <td width="50%" valign="top">
 
 **[Сравнение пиксельной анимации](https://x.com/WrongNebula/status/2118164394400182755)** — автор [@WrongNebula](https://x.com/WrongNebula)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Сравнение пиксельной анимации">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="120" alt="Сравнение пиксельной анимации">
 
 </td>
 </tr>
@@ -396,14 +396,14 @@
 
 **[Сравнение танца в ритме сердца](https://x.com/Mayz1169/status/2118241781074862569)** — автор [@Mayz1169](https://x.com/Mayz1169)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Воспроизвести видео · Сравнение танца в ритме сердца"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="120" alt="Воспроизвести видео · Сравнение танца в ритме сердца"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Сравнение сальто назад с места](https://x.com/gabrielchua/status/2118135343354720648)** — автор [@gabrielchua](https://x.com/gabrielchua)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Воспроизвести видео · Сравнение сальто назад с места"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="120" alt="Воспроизвести видео · Сравнение сальто назад с места"></a>
 
 </td>
 </tr>
@@ -412,14 +412,14 @@
 
 **[Два анимированных ленивца](https://x.com/Sogni_Protocol/status/2118285143030845642)** — автор [@Sogni_Protocol](https://x.com/Sogni_Protocol)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Воспроизвести видео · Два анимированных ленивца"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="120" alt="Воспроизвести видео · Два анимированных ленивца"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Карманный кот с эмоциями в GIF](https://x.com/higgsfield_ai/status/2118149692253200889)** — автор [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Воспроизвести видео · Карманный кот с эмоциями в GIF"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="120" alt="Воспроизвести видео · Карманный кот с эмоциями в GIF"></a>
 
 </td>
 </tr>
@@ -436,14 +436,14 @@
 
 **[Логотип пекарни Field & Flour · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — автор [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Логотип пекарни Field &amp; Flour · Flare"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="120" alt="Логотип пекарни Field &amp; Flour · Flare"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Логотип пекарни Field & Flour · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — автор [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Логотип пекарни Field &amp; Flour · Sunburst"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="120" alt="Логотип пекарни Field &amp; Flour · Sunburst"></a>
 
 </td>
 </tr>
@@ -452,14 +452,14 @@
 
 **[Векторизация размытого логотипа](https://x.com/EHuanglu/status/2118166856498638932)** — автор [@EHuanglu](https://x.com/EHuanglu)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Воспроизвести видео · Векторизация размытого логотипа"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="120" alt="Воспроизвести видео · Векторизация размытого логотипа"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Масштабирование и перекраска векторных человечков](https://x.com/higgsfield_ai/status/2118149257140306238)** — автор [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Воспроизвести видео · Масштабирование и перекраска векторных человечков"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="120" alt="Воспроизвести видео · Масштабирование и перекраска векторных человечков"></a>
 
 </td>
 </tr>

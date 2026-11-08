@@ -348,14 +348,14 @@ Looping previews play inline. Select a video thumbnail to watch a comparison or 
 
 **[Hummingbird by fuchsia flowers](https://x.com/ann_nnng/status/2118531463146864703)** — by [@ann_nnng](https://x.com/ann_nnng)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Hummingbird by fuchsia flowers">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="120" alt="Hummingbird by fuchsia flowers">
 
 </td>
 <td width="50%" valign="top">
 
 **[Pelican on a bicycle](https://x.com/GKev1n/status/2118134129762181127)** — by [@GKev1n](https://x.com/GKev1n)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Pelican on a bicycle">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="120" alt="Pelican on a bicycle">
 
 </td>
 </tr>
@@ -364,14 +364,14 @@ Looping previews play inline. Select a video thumbnail to watch a comparison or 
 
 **[Anime friends hugging](https://x.com/aya_exai/status/2118282589190721723)** — by [@aya_exai](https://x.com/aya_exai)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Anime friends hugging">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="120" alt="Anime friends hugging">
 
 </td>
 <td width="50%" valign="top">
 
 **[Big Fish rice bowl sticker](https://x.com/zane_os/status/2118197925587382377)** — by [@zane_os](https://x.com/zane_os)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Big Fish rice bowl sticker">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="120" alt="Big Fish rice bowl sticker">
 
 </td>
 </tr>
@@ -380,14 +380,14 @@ Looping previews play inline. Select a video thumbnail to watch a comparison or 
 
 **[Dancing chibi character](https://x.com/798145343h/status/2118164732989608405)** — by [@798145343h](https://x.com/798145343h)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Dancing chibi character">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="120" alt="Dancing chibi character">
 
 </td>
 <td width="50%" valign="top">
 
 **[Pixel art animation comparison](https://x.com/WrongNebula/status/2118164394400182755)** — by [@WrongNebula](https://x.com/WrongNebula)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Pixel art animation comparison">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="120" alt="Pixel art animation comparison">
 
 </td>
 </tr>
@@ -396,14 +396,14 @@ Looping previews play inline. Select a video thumbnail to watch a comparison or 
 
 **[Heartbeat dance comparison](https://x.com/Mayz1169/status/2118241781074862569)** — by [@Mayz1169](https://x.com/Mayz1169)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Play video · Heartbeat dance comparison"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="120" alt="Play video · Heartbeat dance comparison"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Standing backflip comparison](https://x.com/gabrielchua/status/2118135343354720648)** — by [@gabrielchua](https://x.com/gabrielchua)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Play video · Standing backflip comparison"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="120" alt="Play video · Standing backflip comparison"></a>
 
 </td>
 </tr>
@@ -412,14 +412,14 @@ Looping previews play inline. Select a video thumbnail to watch a comparison or 
 
 **[Animated sloth pair](https://x.com/Sogni_Protocol/status/2118285143030845642)** — by [@Sogni_Protocol](https://x.com/Sogni_Protocol)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Play video · Animated sloth pair"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="120" alt="Play video · Animated sloth pair"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Pocket cat with GIF moods](https://x.com/higgsfield_ai/status/2118149692253200889)** — by [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Play video · Pocket cat with GIF moods"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="120" alt="Play video · Pocket cat with GIF moods"></a>
 
 </td>
 </tr>
@@ -436,14 +436,14 @@ The two OpenAI logos open as SVG files. The community examples open as workflow 
 
 **[Field & Flour bakery logo · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — by [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Field &amp; Flour bakery logo · Flare"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="120" alt="Field &amp; Flour bakery logo · Flare"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Field & Flour bakery logo · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — by [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Field &amp; Flour bakery logo · Sunburst"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="120" alt="Field &amp; Flour bakery logo · Sunburst"></a>
 
 </td>
 </tr>
@@ -452,14 +452,14 @@ The two OpenAI logos open as SVG files. The community examples open as workflow 
 
 **[Vectorizing a blurry logo](https://x.com/EHuanglu/status/2118166856498638932)** — by [@EHuanglu](https://x.com/EHuanglu)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Play video · Vectorizing a blurry logo"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="120" alt="Play video · Vectorizing a blurry logo"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Scaling and recoloring vector stick figures](https://x.com/higgsfield_ai/status/2118149257140306238)** — by [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Play video · Scaling and recoloring vector stick figures"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="120" alt="Play video · Scaling and recoloring vector stick figures"></a>
 
 </td>
 </tr>

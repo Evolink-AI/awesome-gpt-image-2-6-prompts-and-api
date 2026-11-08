@@ -348,14 +348,14 @@ Las vistas animadas se reproducen en la página. Pulsa una miniatura de vídeo p
 
 **[Colibrí entre flores de fucsia](https://x.com/ann_nnng/status/2118531463146864703)** — por [@ann_nnng](https://x.com/ann_nnng)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="240" alt="Colibrí entre flores de fucsia">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="120" alt="Colibrí entre flores de fucsia">
 
 </td>
 <td width="50%" valign="top">
 
 **[Pelícano en bicicleta](https://x.com/GKev1n/status/2118134129762181127)** — por [@GKev1n](https://x.com/GKev1n)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="240" alt="Pelícano en bicicleta">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="120" alt="Pelícano en bicicleta">
 
 </td>
 </tr>
@@ -364,14 +364,14 @@ Las vistas animadas se reproducen en la página. Pulsa una miniatura de vídeo p
 
 **[Amigas de anime abrazándose](https://x.com/aya_exai/status/2118282589190721723)** — por [@aya_exai](https://x.com/aya_exai)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="240" alt="Amigas de anime abrazándose">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="120" alt="Amigas de anime abrazándose">
 
 </td>
 <td width="50%" valign="top">
 
 **[Pegatina de Big Fish con un bol de arroz](https://x.com/zane_os/status/2118197925587382377)** — por [@zane_os](https://x.com/zane_os)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="240" alt="Pegatina de Big Fish con un bol de arroz">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="120" alt="Pegatina de Big Fish con un bol de arroz">
 
 </td>
 </tr>
@@ -380,14 +380,14 @@ Las vistas animadas se reproducen en la página. Pulsa una miniatura de vídeo p
 
 **[Personaje chibi bailando](https://x.com/798145343h/status/2118164732989608405)** — por [@798145343h](https://x.com/798145343h)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="240" alt="Personaje chibi bailando">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="120" alt="Personaje chibi bailando">
 
 </td>
 <td width="50%" valign="top">
 
 **[Comparación de animaciones pixel art](https://x.com/WrongNebula/status/2118164394400182755)** — por [@WrongNebula](https://x.com/WrongNebula)
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="240" alt="Comparación de animaciones pixel art">
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="120" alt="Comparación de animaciones pixel art">
 
 </td>
 </tr>
@@ -396,14 +396,14 @@ Las vistas animadas se reproducen en la página. Pulsa una miniatura de vídeo p
 
 **[Comparación del baile del latido](https://x.com/Mayz1169/status/2118241781074862569)** — por [@Mayz1169](https://x.com/Mayz1169)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="240" alt="Reproducir vídeo · Comparación del baile del latido"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="120" alt="Reproducir vídeo · Comparación del baile del latido"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Comparación de un salto mortal hacia atrás](https://x.com/gabrielchua/status/2118135343354720648)** — por [@gabrielchua](https://x.com/gabrielchua)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="240" alt="Reproducir vídeo · Comparación de un salto mortal hacia atrás"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="120" alt="Reproducir vídeo · Comparación de un salto mortal hacia atrás"></a>
 
 </td>
 </tr>
@@ -412,14 +412,14 @@ Las vistas animadas se reproducen en la página. Pulsa una miniatura de vídeo p
 
 **[Dos perezosos animados](https://x.com/Sogni_Protocol/status/2118285143030845642)** — por [@Sogni_Protocol](https://x.com/Sogni_Protocol)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="240" alt="Reproducir vídeo · Dos perezosos animados"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="120" alt="Reproducir vídeo · Dos perezosos animados"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Gato de bolsillo con estados de ánimo en GIF](https://x.com/higgsfield_ai/status/2118149692253200889)** — por [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="240" alt="Reproducir vídeo · Gato de bolsillo con estados de ánimo en GIF"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="120" alt="Reproducir vídeo · Gato de bolsillo con estados de ánimo en GIF"></a>
 
 </td>
 </tr>
@@ -436,14 +436,14 @@ Los dos logotipos de OpenAI se abren como archivos SVG. Los ejemplos de la comun
 
 **[Logotipo de la panadería Field & Flour · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — por [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="240" alt="Logotipo de la panadería Field &amp; Flour · Flare"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="120" alt="Logotipo de la panadería Field &amp; Flour · Flare"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Logotipo de la panadería Field & Flour · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — por [OpenAI](https://openai.com/)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="240" alt="Logotipo de la panadería Field &amp; Flour · Sunburst"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="120" alt="Logotipo de la panadería Field &amp; Flour · Sunburst"></a>
 
 </td>
 </tr>
@@ -452,14 +452,14 @@ Los dos logotipos de OpenAI se abren como archivos SVG. Los ejemplos de la comun
 
 **[Vectorización de un logotipo borroso](https://x.com/EHuanglu/status/2118166856498638932)** — por [@EHuanglu](https://x.com/EHuanglu)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="240" alt="Reproducir vídeo · Vectorización de un logotipo borroso"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="120" alt="Reproducir vídeo · Vectorización de un logotipo borroso"></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Escalar y recolorear figuras de palo vectoriales](https://x.com/higgsfield_ai/status/2118149257140306238)** — por [@higgsfield_ai](https://x.com/higgsfield_ai)
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="240" alt="Reproducir vídeo · Escalar y recolorear figuras de palo vectoriales"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="120" alt="Reproducir vídeo · Escalar y recolorear figuras de palo vectoriales"></a>
 
 </td>
 </tr>
