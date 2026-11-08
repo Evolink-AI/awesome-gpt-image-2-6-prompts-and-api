@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/banner-2-6-r22.svg" width="760" alt="GPT Image 2.6 + 2.5 · 259 eksiksiz istem · EvoLink"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG ve GIF örnekleri içeren el çizimi GPT Image 2.6 afişi"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.5 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![259 eksiksiz istem](https://img.shields.io/badge/Prompts-259-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.6 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 eksiksiz istem](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 Giriş
 
-**GPT Image 2.6 güncellemeleri ve 259 eksiksiz istem: 2.6 için dokuz örnek ve yedi yaratıcı görevi kapsayan özgün 250 GPT Image 2.5 istemi.** Portreleri, karakter paftalarını, illüstrasyonları, reklamları, gezi günlüklerini, görsel düzenlemelerini ve sıralı sahneleri keşfedin. Her örnek özgün istemi, üretici bilgisini ve ilgili medyayı içerir.
+**GPT Image 2.6 güncellemeleri ve 260 eksiksiz istem: 2.6 için on örnek ve yedi yaratıcı görevi kapsayan özgün 250 GPT Image 2.5 istemi.** Portreleri, karakter paftalarını, illüstrasyonları, reklamları, gezi günlüklerini, görsel düzenlemelerini ve sıralı sahneleri keşfedin. Her örnek özgün istemi, üretici bilgisini ve ilgili medyayı içerir.
 
 Özgün 250 istemlik derleme, 52 üreticinin X üzerindeki 238 herkese açık paylaşımından oluşur. Yeni 2.6 örneklerinde resmî belgeler ile üretici beyanları ayrı belirtilir; önceki 2.5 örneklerinin özgün model bilgileri korunur. Model bilgisi üreticilerin beyanlarına dayanır; örnekler bağımsız olarak yeniden üretilmemiştir. Referans görseller, ayarlar ve sonradan yapılan düzenlemeler sonuçları etkileyebilir.
 
@@ -24,11 +24,12 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 2. Girdi notunu okuyun, ardından kod bloğundaki istemin tamamını kopyalayın.
 3. İstenen referans görseli ekleyin, düzenlenebilir ayrıntıları kişiselleştirin ve modelin deneme sayfasında istemi deneyin.
 
-[Images 2.6 modelini ChatGPT içinde deneyin](https://chatgpt.com/images) · [GPT Image 2.5 modelini tarayıcıda deneyin](https://evolink.ai/gpt-image-2-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[Images 2.6 modelini ChatGPT içinde deneyin](https://chatgpt.com/images) · [GPT Image 2.6 modelini tarayıcıda deneyin](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 Güncellemeler
 
+- **2026-11-07:** Döngüsel bir anime kaleydoskop animasyonu için üreticinin yayımladığı eksiksiz bir istem eklendi. Derlemede artık on 2.6 örneği ve 260 eksiksiz istem var.
 - **2026-11-06:** Galeri posterleri, karakter GIF’leri ve dairelerle yönlendirilen düzenlemeler için üreticilerin yayımladığı beş eksiksiz istem eklendi. Derlemede artık dokuz 2.6 örneği ve 259 eksiksiz istem var; özgün istemler ve örnek numaraları değişmedi.
 - **2026-11-05:** Dört eksiksiz 2.6 istem örneği ve aşağıdaki resmî SVG örnekleri eklendi. Önceki 250 istemin GPT Image 2.5 model bilgisi korunuyor.
 - **2026-11-04:** OpenAI, GPT Image 2.6 Sunburst ve Flare modellerini yayımladı. Sunburst, ayrıntı gerektiren işlere ve düzenleme sırasında mevcut içeriği korumaya; Flare ise daha hızlı denemelere odaklanır. Her ikisi de karmaşıklık kontrolünü, işaretlemeyle yönlendirilen düzenlemeleri, SVG ve GIF çıktısını destekler. Karmaşıklık ile görüntüleme kalitesi ayrı ayarlardır; planlama çabasını artırmak bekleme süresini ve istenmeyen değişiklikleri de artırabilir. [Resmî sürüm notlarını okuyun](https://developers.openai.com/api/docs/changelog) ve [güncel istem kılavuzunu okuyun](https://developers.openai.com/api/docs/guides/image-prompting).
@@ -37,17 +38,11 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 
 | En yeni karakter animasyonu | Galeri posteri ve işaretlemeyle düzenleme |
 | --- | --- |
-| [Temiz stilde esneme animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-256)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118167499812536321.jpg" width="300" alt="Esneme animasyonu önizlemesi"> | [Barok kış posterleri](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Kardan adamlı galeri posteri"> |
-| [Pilav yiyen çıkartma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Göz kırpan karakter](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Dairelerle yönlendirilen Noel düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258) |
+| [Döngüsel anime kaleydoskopu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="Anime kaleydoskop animasyonu önizlemesi"> | [Barok kış posterleri](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Kardan adamlı galeri posteri"> |
+| [Esneme animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Pilav yiyen çıkartma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Göz kırpan karakter](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Dairelerle yönlendirilen Noel düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258) |
 | [Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Çay Portresi Sürüm Karşılaştırması](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Sahneyi Koruyarak Çiçeği Kaldırma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Reklam Panosunu Karlı Akşama Dönüştürme](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-253) |
 
-**Resmî SVG örnekleri — istem sayısına dahil değildir**
-
-Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıktılarıdır. [Resmî örneği ve tüm kurulum ayrıntılarını inceleyin](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output). Bu gösterim istem örneği sayısını artırmaz.
-
-<table>
-<tr><td width="50%" valign="top"><strong>GPT Image 2.6 Flare</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="300" alt="Flare ile resmî fırın logosu SVG çıktısı"></td><td width="50%" valign="top"><strong>GPT Image 2.6 Sunburst</strong><br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="300" alt="Sunburst ile resmî fırın logosu SVG çıktısı"></td></tr>
-</table>
+**[Demo galerisi](#demo-wall)** · [GIF animasyonları](#demo-gif) · [SVG vektör grafikleri](#demo-svg)
 
 - **2026-10-26:** İlk derleme: Özgün kaynaklar ve üretici medyasıyla birlikte yedi kategoride 250 eksiksiz istem.
 
@@ -57,8 +52,9 @@ Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıkt�
 - [🍌 Giriş](#introduction)
 - [⚡ Hızlı Başlangıç](#quick-start)
 - [📰 Güncellemeler](#news)
+- [🎞️ Demo galerisi](#demo-wall)
 
-- **[GPT Image 2.6 — En Yeni](cases/tr/gpt-image-2-6.md)** · 9
+- **[GPT Image 2.6 — En Yeni](cases/tr/gpt-image-2-6.md)** · 10
   - [Örnek 251: Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [Örnek 252: Sahneyi Koruyarak Çiçeği Kaldırma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [Örnek 253: Reklam Panosunu Karlı Akşama Dönüştürme](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -68,6 +64,7 @@ Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıkt�
   - [Örnek 257: Pilav Yiyen Karakter Çıkartması](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-257)
   - [Örnek 258: Dairelerle Yönlendirilen Noel Karakter Düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [Örnek 259: Göz Kırpan ve Sallanan Karakter Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259)
+  - [Örnek 260: Döngüsel Anime Kaleydoskop Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-260)
 - **[Portre ve Fotoğraf](cases/tr/portraits.md)** · 51
   - [Örnek 1: Beyaz Gömlekli Şelale Portresi](cases/tr/portraits.md#portraits-case-1)
   - [Örnek 2: Düşen Telefon Açısından Doğal Çekim](cases/tr/portraits.md#portraits-case-2)
@@ -335,9 +332,144 @@ Bu fırın logoları, OpenAI’ın SVG gösteriminde yayımladığı 2.6 çıkt�
 - [GPT Image 2.5 for E-commerce](https://github.com/Evolink-AI/gpt-image-2.5-for-e-commerce) — Ürün ve e-ticaret örnekleri.
 - [GPT Image 2 + Seedance 2.5 Workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow) — Görselden videoya iş akışı örnekleri.
 
+<a id="demo-wall"></a>
+## 🎞️ Demo galerisi
+
+10 GIF demosunu ve 4 SVG örneğini keşfedin. Galeri, tam istem koleksiyonundan ayrı sayılır.
+
+<a id="demo-gif"></a>
+### GIF animasyonları
+
+Döngülü önizlemeler sayfada oynar. Karşılaştırmayı veya iş akışını görmek için video küçük resmini seçin.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Fuşya çiçeklerinin yanında sinek kuşu](https://x.com/ann_nnng/status/2118531463146864703)** — hazırlayan [@ann_nnng](https://x.com/ann_nnng)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sunburst-loop.gif" width="120" alt="Fuşya çiçeklerinin yanında sinek kuşu">
+
+</td>
+<td width="50%" valign="top">
+
+**[Bisiklete binen pelikan](https://x.com/GKev1n/status/2118134129762181127)** — hazırlayan [@GKev1n](https://x.com/GKev1n)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pelican.gif" width="120" alt="Bisiklete binen pelikan">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Sarılmış anime arkadaşları](https://x.com/aya_exai/status/2118282589190721723)** — hazırlayan [@aya_exai](https://x.com/aya_exai)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/anime-friends.gif" width="120" alt="Sarılmış anime arkadaşları">
+
+</td>
+<td width="50%" valign="top">
+
+**[Pirinç kâseli Big Fish çıkartması](https://x.com/zane_os/status/2118197925587382377)** — hazırlayan [@zane_os](https://x.com/zane_os)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/fish-sticker.gif" width="120" alt="Pirinç kâseli Big Fish çıkartması">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Dans eden chibi karakter](https://x.com/798145343h/status/2118164732989608405)** — hazırlayan [@798145343h](https://x.com/798145343h)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/dancing-assistants.gif" width="120" alt="Dans eden chibi karakter">
+
+</td>
+<td width="50%" valign="top">
+
+**[Piksel animasyonu karşılaştırması](https://x.com/WrongNebula/status/2118164394400182755)** — hazırlayan [@WrongNebula](https://x.com/WrongNebula)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-animation.gif" width="120" alt="Piksel animasyonu karşılaştırması">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Kalp atışı dansı karşılaştırması](https://x.com/Mayz1169/status/2118241781074862569)** — hazırlayan [@Mayz1169](https://x.com/Mayz1169)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/heartbeat-dance.jpg" width="120" alt="Videoyu oynat · Kalp atışı dansı karşılaştırması"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Durduğu yerden ters takla karşılaştırması](https://x.com/gabrielchua/status/2118135343354720648)** — hazırlayan [@gabrielchua](https://x.com/gabrielchua)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/backflip.jpg" width="120" alt="Videoyu oynat · Durduğu yerden ters takla karşılaştırması"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[İki animasyonlu tembel hayvan](https://x.com/Sogni_Protocol/status/2118285143030845642)** — hazırlayan [@Sogni_Protocol](https://x.com/Sogni_Protocol)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/sloth-pair.jpg" width="120" alt="Videoyu oynat · İki animasyonlu tembel hayvan"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[GIF ifadeleri olan cep kedisi](https://x.com/higgsfield_ai/status/2118149692253200889)** — hazırlayan [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pocket-cat.jpg" width="120" alt="Videoyu oynat · GIF ifadeleri olan cep kedisi"></a>
+
+</td>
+</tr>
+</table>
+
+<a id="demo-svg"></a>
+### SVG vektör grafikleri
+
+OpenAI’ın iki logosu SVG dosyası olarak açılır. Topluluk örnekleri, iş akışını gösteren videolardır.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Field & Flour fırın logosu · Flare](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — hazırlayan [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-flare.svg" width="120" alt="Field &amp; Flour fırın logosu · Flare"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Field & Flour fırın logosu · Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)** — hazırlayan [OpenAI](https://openai.com/)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/field-and-flour-gpt-image-2-6-sunburst.svg" width="120" alt="Field &amp; Flour fırın logosu · Sunburst"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Bulanık bir logoyu vektöre dönüştürme](https://x.com/EHuanglu/status/2118166856498638932)** — hazırlayan [@EHuanglu](https://x.com/EHuanglu)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/logo-vector.jpg" width="120" alt="Videoyu oynat · Bulanık bir logoyu vektöre dönüştürme"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Vektör çöp adamları ölçeklendirme ve renklendirme](https://x.com/higgsfield_ai/status/2118149257140306238)** — hazırlayan [@higgsfield_ai](https://x.com/higgsfield_ai)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/vector-stick-figures.jpg" width="120" alt="Videoyu oynat · Vektör çöp adamları ölçeklendirme ve renklendirme"></a>
+
+</td>
+</tr>
+</table>
+
 <a id="acknowledge"></a>
 ## 🙏 Teşekkürler
 
-Bu istemleri ve örnekleri paylaşan üreticilere teşekkür ederiz: [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_).
+Bu istemleri ve örnekleri paylaşan üreticilere teşekkür ederiz: [@aimikoda](https://x.com/aimikoda), [@1banana2546](https://x.com/1banana2546), [@agi_aibusi](https://x.com/agi_aibusi), [@AiwithLariab](https://x.com/AiwithLariab), [@AiWithTariq](https://x.com/AiWithTariq), [@Alina_with_Ai](https://x.com/Alina_with_Ai), [@Arina_hoqe](https://x.com/Arina_hoqe), [@Arzoo12sh](https://x.com/Arzoo12sh), [@aziz4ai](https://x.com/aziz4ai), [@chatgptpaglu](https://x.com/chatgptpaglu), [@churvikv](https://x.com/churvikv), [@DeepBlueX0](https://x.com/DeepBlueX0), [@Diplomeme](https://x.com/Diplomeme), [@FutureVibesAi](https://x.com/FutureVibesAi), [@GeekCatX](https://x.com/GeekCatX), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@hakmgpt](https://x.com/hakmgpt), [@HaniaAi12](https://x.com/HaniaAi12), [@harboriis](https://x.com/harboriis), [@hey_am_cherry](https://x.com/hey_am_cherry), [@husky__create](https://x.com/husky__create), [@icreatelife](https://x.com/icreatelife), [@imGopalTiwari](https://x.com/imGopalTiwari), [@itsPixieVerse](https://x.com/itsPixieVerse), [@j_smeaton99](https://x.com/j_smeaton99), [@john_my07](https://x.com/john_my07), [@johnAGI168](https://x.com/johnAGI168), [@KrishnaBio1](https://x.com/KrishnaBio1), [@Kubra_286](https://x.com/Kubra_286), [@liyue_ai](https://x.com/liyue_ai), [@lukfan](https://x.com/lukfan), [@magu_ai_h](https://x.com/magu_ai_h), [@MahnoorAi12](https://x.com/MahnoorAi12), [@Mayz1169](https://x.com/Mayz1169), [@mehvishs25](https://x.com/mehvishs25), [@mehwishkiran07](https://x.com/mehwishkiran07), [@miratechtool](https://x.com/miratechtool), [@MissDelulu9](https://x.com/MissDelulu9), [@MonetizationDon](https://x.com/MonetizationDon), [@MrGafish](https://x.com/MrGafish), [@MrLarus](https://x.com/MrLarus), [@Naiknelofar788](https://x.com/Naiknelofar788), [@novaXsignals](https://x.com/novaXsignals), [@ozansihay](https://x.com/ozansihay), [@renoiseai](https://x.com/renoiseai), [@Scenario_gg](https://x.com/Scenario_gg), [@Shorelyn_](https://x.com/Ziha_ai), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@TaliaAariz](https://x.com/TaliaAariz), [@techhalla](https://x.com/techhalla), [@TechieBySA](https://x.com/TechieBySA), [@weiinberg](https://x.com/weiinberg), [@yourPlugAI](https://x.com/yourPlugAI), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@Gorden_Sun](https://x.com/Gorden_Sun), [@IHayato](https://x.com/IHayato), [@OpenAI](https://developers.openai.com), [@nima2qisi2](https://x.com/nima2qisi2), [@v3rt0x_](https://x.com/v3rt0x_).
 
 Üretici bilgileri mevcut herkese açık kaynaklara dayanır ve düzeltilmesi gerekebilir. Kaynak düzeltmesi, isim belirtme veya kaldırma talepleri için bir issue açın; [Katkı rehberine](CONTRIBUTING.md) bakın.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-gpt-image-2-6-prompts-and-api&Date)
