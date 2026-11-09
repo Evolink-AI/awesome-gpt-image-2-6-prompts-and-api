@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="Banner desenhado à mão do GPT Image 2.6 com exemplos de SVG e GIF"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Experimentar GPT Image 2.6 no navegador](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 prompts completos](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Experimentar GPT Image 2.6 no navegador](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265 prompts completos](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 Introdução
 
-**Novidades do GPT Image 2.6 e 260 prompts completos: dez casos de 2.6, além dos 250 prompts originais do GPT Image 2.5 em sete tarefas criativas.** Explore retratos, fichas de personagens, ilustração, publicidade, diários de viagem, edição de imagens e arte sequencial. Cada caso inclui o prompt original, a atribuição ao criador e a mídia correspondente.
+**Novidades do GPT Image 2.6 e 265 prompts completos: quinze casos de 2.6, além dos 250 prompts originais do GPT Image 2.5 em sete tarefas criativas.** Explore retratos, fichas de personagens, ilustração, publicidade, diários de viagem, edição de imagens e arte sequencial. Cada caso inclui o prompt original, a atribuição ao criador e a mídia correspondente.
 
 A coleção original de 250 prompts reúne 238 publicações públicas no X de 52 criadores. Os novos casos de 2.6 distinguem a documentação oficial dos exemplos publicados por criadores; os exemplos anteriores de 2.5 mantêm sua atribuição original. A atribuição do modelo segue as declarações dos criadores; os exemplos não foram gerados novamente de forma independente. Imagens de referência, configurações e edição posterior podem afetar os resultados.
 
@@ -29,6 +29,7 @@ Os exemplos de marcas, personagens e celebridades são conceitos dos criadores, 
 <a id="news"></a>
 ## 📰 Novidades
 
+- **2026-11-09:** Foram adicionados cinco prompts completos da entrega R22 de 8 de novembro. Eles abrangem capas editoriais, fotografia de rua perto de pontos turísticos, retratos de moda e o início do inverno. Duas demonstrações em GIF de criadores entram na galeria.
 - **2026-11-07:** Foi adicionado um prompt completo de um criador para uma animação em loop de caleidoscópio em estilo anime. A coleção agora tem dez casos de 2.6 e 260 prompts completos.
 - **2026-11-06:** Foram adicionados cinco prompts completos de criadores para pôsteres de galeria, GIFs de personagens e edição guiada por círculos. A coleção agora tem nove casos de 2.6 e 259 prompts completos; os prompts originais e os números dos casos permanecem inalterados.
 - **2026-11-05:** Foram adicionados quatro casos de 2.6 com prompts completos e os exemplos SVG oficiais abaixo. Os 250 prompts anteriores continuam atribuídos ao GPT Image 2.5.
@@ -36,11 +37,11 @@ Os exemplos de marcas, personagens e celebridades são conceitos dos criadores, 
 
 **Comece pelos prompts completos mais recentes**
 
-| Animação de personagens mais recente | Pôster de galeria e edição com marcações |
+| Capas editoriais | Viagens e retratos |
 | --- | --- |
-| [Caleidoscópio em estilo anime em loop](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="Prévia da animação de caleidoscópio em estilo anime"> | [Pôsteres de inverno barrocos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Pôster de galeria com boneco de neve"> |
-| [Animação de alongamento](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Figurinha comendo arroz](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Personagem piscando](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Edição festiva guiada por círculos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [Animação orbital da Casa Branca](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Comparação de versões: retrato com chá](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Remoção de flor com preservação da cena](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Edição de outdoor em uma noite de neve](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [Capas editoriais de esportes ao ar livre](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="Capa de snowboard"> | [Fotografia de rua nostálgica perto de pontos turísticos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="Rua perto de um monumento com cúpula"> |
+| [Capas artísticas para o início do inverno](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-265) | [Retrato editorial de moda urbana com estilo cinematográfico](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-263) · [Retrato de moda com referência facial e luz circular](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [Caleidoscópio em estilo anime em loop](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-260) | [Pôsteres de inverno barrocos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[Galeria de demonstrações](#demo-wall)** · [Animações GIF](#demo-gif) · [Gráficos vetoriais SVG](#demo-svg)
 
@@ -54,7 +55,7 @@ Os exemplos de marcas, personagens e celebridades são conceitos dos criadores, 
 - [📰 Novidades](#news)
 - [🎞️ Galeria de demonstrações](#demo-wall)
 
-- **[GPT Image 2.6 — Novidades](cases/pt/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — Novidades](cases/pt/gpt-image-2-6.md)** · 15
   - [Caso 251: Animação orbital da Casa Branca](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [Caso 252: Remoção de flor com preservação da cena](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [Caso 253: Edição de outdoor em uma noite de neve](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@ Os exemplos de marcas, personagens e celebridades são conceitos dos criadores, 
   - [Caso 258: Edição festiva de personagem guiada por círculos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [Caso 259: Animação de personagem piscando e balançando](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [Caso 260: Animação em loop de caleidoscópio em estilo anime](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [Caso 261: Capas editoriais de esportes ao ar livre](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [Caso 262: Fotografia de rua nostálgica perto de pontos turísticos](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [Caso 263: Retrato editorial de moda urbana com estilo cinematográfico](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [Caso 264: Retrato de moda com referência facial e luz circular](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [Caso 265: Capas artísticas para o início do inverno](cases/pt/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[Retratos e fotografia](cases/pt/portraits.md)** · 51
   - [Caso 1: Retrato com camisa branca diante de uma cachoeira](cases/pt/portraits.md#portraits-case-1)
   - [Caso 2: Perspectiva espontânea de um celular caído](cases/pt/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@ Os exemplos de marcas, personagens e celebridades são conceitos dos criadores, 
 <a id="demo-wall"></a>
 ## 🎞️ Galeria de demonstrações
 
-Explore 10 demonstrações de GIF e 4 exemplos de SVG. A galeria tem uma contagem separada da coleção de prompts completos.
+Explore 12 demonstrações de GIF e 4 exemplos de SVG. A galeria tem uma contagem separada da coleção de prompts completos.
 
 <a id="demo-gif"></a>
 ### Animações GIF
@@ -343,6 +349,22 @@ Explore 10 demonstrações de GIF e 4 exemplos de SVG. A galeria tem uma contage
 As prévias animadas passam na própria página. Selecione uma miniatura de vídeo para ver a comparação ou o fluxo de trabalho.
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[Personagem em pixel art e folha de sprites](https://x.com/Mayz1169/status/2119108577927548944)** — por [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="Personagem em pixel art e folha de sprites">
+
+</td>
+<td width="50%" valign="top">
+
+**[Fluxo de criação de pôster animado de personagem](https://x.com/Leviwoyun/status/2118991862564262140)** — por [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="Reproduzir vídeo · Fluxo de criação de pôster animado de personagem"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

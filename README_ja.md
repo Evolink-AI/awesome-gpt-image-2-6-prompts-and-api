@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG と GIF の例を描いた GPT Image 2.6 の手描きバナー"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![ブラウザーでGPT Image 2.6を試す](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![全文掲載のプロンプト260件](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![ブラウザーでGPT Image 2.6を試す](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![全文掲載のプロンプト265件](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 はじめに
 
-**GPT Image 2.6の最新情報と、全文掲載のプロンプト260件。2.6の10ケースに加え、7つの制作分野に分けた既存のGPT Image 2.5プロンプト250件を収録しています。** ポートレート、キャラクター設定、イラスト、広告、旅の記録、画像編集、連続画・絵コンテから探せます。各ケースには、プロンプト原文、作者のクレジット、関連する画像・動画を掲載しています。
+**GPT Image 2.6の最新情報と、全文掲載のプロンプト265件。2.6の15ケースに加え、7つの制作分野に分けた既存のGPT Image 2.5プロンプト250件を収録しています。** ポートレート、キャラクター設定、イラスト、広告、旅の記録、画像編集、連続画・絵コンテから探せます。各ケースには、プロンプト原文、作者のクレジット、関連する画像・動画を掲載しています。
 
 既存の250件は、52人のクリエイターによる238件の公開X投稿から収集しました。新しい2.6ケースでは、公式ドキュメントと作者による報告を区別し、従来の2.5作例の出典を維持しています。使用モデルの記載は作者の申告に基づいており、掲載例を独立に再生成して確認したものではありません。参照画像、設定、生成後の編集によって結果は変わることがあります。
 
@@ -29,6 +29,7 @@
 <a id="news"></a>
 ## 📰 更新情報
 
+- **2026-11-09:** 11月8日分のR22から、雑誌の表紙、ランドマーク周辺の街角写真、ファッションポートレート、立冬を題材にしたプロンプトの全文を5件追加しました。デモギャラリーには作者によるGIF作例が2件加わりました。
 - **2026-11-07:** アニメ風の万華鏡ループ動画を作るための、作者が公開したプロンプトを1件追加しました。GPT Image 2.6の作例は10件、全文掲載のプロンプトは合計260件です。
 - **2026-11-06:** ギャラリーポスター、キャラクターGIF、丸印を使った編集のプロンプト全文を5件追加しました。2.6ケースは9件、完全なプロンプトは合計259件となりました。既存のプロンプト原文とケース番号は変更していません。
 - **2026-11-05:** 全文を公開した2.6プロンプト4件と、下記の公式SVG作例を追加しました。従来の250件はGPT Image 2.5の作例として出典を維持しています。
@@ -36,11 +37,11 @@
 
 **最新の全文プロンプトから試す**
 
-| 最新のキャラクターアニメーション | ギャラリーポスターと丸印編集 |
+| 雑誌の表紙 | 旅行とポートレート |
 | --- | --- |
-| [アニメ風の万華鏡ループ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="アニメ風万華鏡動画のプレビュー"> | [バロック額縁の冬のポスター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="作者の雪だるまギャラリーポスター"> |
-| [ストレッチ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-256) · [ご飯スタンプ](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-257) · [まばたきするキャラクター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259) | [丸印で指定するクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [ホワイトハウスの周回](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251) · [紅茶ポートレート比較](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花の除去](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪景色の看板](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [アウトドアスポーツ雑誌の表紙](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="スノーボードの表紙"> | [ランドマークを望む懐かしい街角写真](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="ドームのあるランドマーク近くの街角"> |
+| [立冬を描くアート表紙](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-265) | [映画風のストリートウェアポートレート](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-263) · [リング状の光を使ったファッションポートレート](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [アニメ風の万華鏡ループ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-260) | [バロック額縁の冬のポスター](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[デモギャラリー](#demo-wall)** · [GIF アニメーション](#demo-gif) · [SVG ベクターグラフィックス](#demo-svg)
 
@@ -54,7 +55,7 @@
 - [📰 更新情報](#news)
 - [🎞️ デモギャラリー](#demo-wall)
 
-- **[GPT Image 2.6 — 最新](cases/ja/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — 最新](cases/ja/gpt-image-2-6.md)** · 15
   - [ケース 251: ホワイトハウスの周回アニメーション](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [ケース 252: 周囲を保ったまま花を除去](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [ケース 253: 雪の夕景に変える看板編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@
   - [ケース 258: 丸印で指定するキャラクターのクリスマス編集](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [ケース 259: まばたきと揺れのキャラクターアニメーション](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [ケース 260: アニメ風の万華鏡ループ動画](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [ケース 261: アウトドアスポーツ雑誌の表紙](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [ケース 262: ランドマークを望む懐かしい街角写真](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [ケース 263: 映画風のストリートウェアポートレート](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [ケース 264: リング状の光を使ったファッションポートレート](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [ケース 265: 立冬を描くアート表紙](cases/ja/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[ポートレート・写真](cases/ja/portraits.md)** · 51
   - [ケース 1: 滝を背景にした白シャツのポートレート](cases/ja/portraits.md#portraits-case-1)
   - [ケース 2: 落としたスマートフォンの視点で捉える自然な一瞬](cases/ja/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@
 <a id="demo-wall"></a>
 ## 🎞️ デモギャラリー
 
-GIF デモ 10 件と SVG の作例 4 件を掲載しています。完全なプロンプトのコレクションとは別に集計しています。
+GIF デモ 12 件と SVG の作例 4 件を掲載しています。完全なプロンプトのコレクションとは別に集計しています。
 
 <a id="demo-gif"></a>
 ### GIF アニメーション
@@ -343,6 +349,22 @@ GIF デモ 10 件と SVG の作例 4 件を掲載しています。完全なプ�
 ループするプレビューはページ上で再生されます。動画のサムネイルを選ぶと、比較や制作手順を確認できます。
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[ドット絵キャラクターとスプライトシート](https://x.com/Mayz1169/status/2119108577927548944)** — 作者 [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="ドット絵キャラクターとスプライトシート">
+
+</td>
+<td width="50%" valign="top">
+
+**[動くキャラクターポスターの制作手順](https://x.com/Leviwoyun/status/2118991862564262140)** — 作者 [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="動画を再生 · 動くキャラクターポスターの制作手順"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

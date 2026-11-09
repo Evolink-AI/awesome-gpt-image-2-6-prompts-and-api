@@ -1,8 +1,8 @@
 # GPT Image 2.6 — Neueste Prompt-Fälle
 
-[← Alle 260 Prompts](../../README_de.md)
+[← Alle 265 Prompts](../../README_de.md)
 
-Zehn vollständige öffentliche Prompts: zwei offizielle Bearbeitungsbeispiele und acht Prompts von Kreativen zu Animation, Bearbeitung, Postern und einem Versionsvergleich. Die ursprünglichen 250 Fälle für GPT Image 2.5 behalten ihre Nummern.
+Die fünfzehn vollständigen öffentlichen Prompts umfassen zwei offizielle Bearbeitungsbeispiele und dreizehn Prompts von Kreativen für Animationen, Bildbearbeitung, Poster, Porträts und Reisefotografie. Die ursprünglichen 250 Fälle für GPT Image 2.5 behalten ihre Nummern.
 
 ## Inhaltsverzeichnis
 
@@ -16,6 +16,11 @@ Zehn vollständige öffentliche Prompts: zwei offizielle Bearbeitungsbeispiele u
   - [Fall 258: Festliche Figurenbearbeitung anhand von Kreisen](#gpt-image-2-6-case-258)
   - [Fall 259: Animation einer blinzelnden und schwankenden Figur](#gpt-image-2-6-case-259)
   - [Fall 260: Animation eines Anime-Kaleidoskops in Endlosschleife](#gpt-image-2-6-case-260)
+  - [Fall 261: Magazincover für Outdoorsport](#gpt-image-2-6-case-261)
+  - [Fall 262: Nostalgische Straßenfotografie mit Sehenswürdigkeiten](#gpt-image-2-6-case-262)
+  - [Fall 263: Filmisches Streetwear-Porträt im Magazinstil](#gpt-image-2-6-case-263)
+  - [Fall 264: Modeporträt mit Gesichtsreferenz und Ringlicht](#gpt-image-2-6-case-264)
+  - [Fall 265: Künstlerische Cover zum Winterbeginn](#gpt-image-2-6-case-265)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### Fall 251: [Animation um das Weiße Haus](https://x.com/nima2qisi2/status/2118295936606798006) (von [@nima2qisi2](https://x.com/nima2qisi2))
@@ -247,6 +252,188 @@ ANIMATION: Keep the overall composition stationary while all five character inst
 LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
 
 No text, logos, subtitles or additional characters.
+```
+
+---
+
+<a id="gpt-image-2-6-case-261"></a>
+### Fall 261: [Magazincover für Outdoorsport](https://x.com/Goodmanprotocol/status/2119083132691615772) (von [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**Eingabe:** Gib eine Sportart, ein Motiv oder ein Konzept an. Der veröffentlichte Prompt lässt eine Beschreibung als Text zu.
+
+Der Urheber zeigt zwei Magazincover mit übergroßer Typografie. Eines zeigt Snowboarden, das andere Segeln.
+
+| Ausgabe | Ausgabe 2 |
+| --- | --- |
+| <strong>Snowboardcover</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="Snowboardcover"></a> | <strong>Segelcover</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083118611304448.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083118611304448.jpg" width="120" alt="Segelcover"></a> |
+
+**Prompt:**
+
+```
+Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+TYPOGRAPHIC DESIGN:
+
+- Add an enormous, bold, uppercase headline featuring the main subject or activity.
+- Use condensed extra-bold sans-serif typography.
+- Position the headline across the lower-middle portion of the poster.
+- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+- Choose typography colors that contrast beautifully with the photograph.
+- Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+- Small uppercase category label at the top.
+- Edition number: EDITION 01.
+- Small subtitle describing the activity or environment.
+- Minimalist footer branding: VISUAL STUDIES.
+- Short editorial tagline: THE ART OF [MAIN SUBJECT].
+- Subtle technical coordinates or location details where appropriate.
+
+VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.
+```
+
+---
+
+<a id="gpt-image-2-6-case-262"></a>
+### Fall 262: [Nostalgische Straßenfotografie mit Sehenswürdigkeiten](https://x.com/Naiknelofar788/status/2118968665769197976) (von [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+**Eingabe:** Ersetze [LANDMARK / CITY / COUNTRY] durch ein Reiseziel.
+
+Der Urheber zeigt drei Straßenszenen mit unterschiedlichen Sehenswürdigkeiten. Alle verwenden dieselbe Promptvorlage.
+
+| Ausgabe | Ausgabe 2 |
+| --- | --- |
+| <strong>Straße an einem Bauwerk mit Kuppel</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="Straße an einem Bauwerk mit Kuppel"></a> | <strong>Straße am Eiffelturm</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646450257920.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646450257920.jpg" width="120" alt="Straße am Eiffelturm"></a> |
+| <strong>Straße an einer Pagode</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646479581184.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646479581184.jpg" width="120" alt="Straße an einer Pagode"></a> |  |
+
+**Prompt:**
+
+```
+Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods.
+
+Instead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination.
+
+The iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame.
+
+Photography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain.
+
+Mood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic.
+
+Camera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures.
+
+Vertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.
+```
+
+---
+
+<a id="gpt-image-2-6-case-263"></a>
+### Fall 263: [Filmisches Streetwear-Porträt im Magazinstil](https://x.com/Goodmanprotocol/status/2118925189329420653) (von [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**Eingabe:** Der veröffentlichte Prompt verlangt kein Referenzbild.
+
+Der Urheber zeigt eine Nahaufnahme einer Person mit Kapuze vor einer unscharfen Menschenmenge auf der Straße.
+
+| Ausgabe |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118925178583572480.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118925178583572480.jpg" width="240" alt="Streetwear-Porträt mit Kapuze"></a> |
+
+**Prompt:**
+
+```
+Cinematic Streetwear Editorial Portrait
+
+Create an ultra-realistic, high-end fashion editorial photograph of a beautiful young European woman in her early 20s, captured in a candid close-up street-style portrait. She has naturally fair skin, delicate facial features, expressive light hazel-green eyes, softly defined lips, and long, voluminous dark brunette hair falling naturally around her face, with a few loose strands crossing her forehead.
+
+Outfit & Styling:
+She wears an oversized, washed-black heavyweight hoodie with the hood pulled over her head. The hoodie features a subtle, minimalist embroidered logo on the chest, with a relaxed silhouette and premium cotton texture. Her styling is effortlessly understated, contemporary, and editorial.
+
+Pose & Expression:
+Standing still in a crowded urban environment, she looks directly into the camera with a calm, slightly mysterious, emotionally neutral expression. Her head is subtly turned, shoulders relaxed, and hair moves naturally across her face. Capture an authentic, spontaneous street-photography moment.
+
+Environment & Composition:
+A softly blurred crowd of people surrounds her, creating layered foreground and background depth. Include out-of-focus figures wearing dark clothing, with warm skin tones and indistinct urban surroundings. Keep the woman perfectly sharp and visually separated from the environment through shallow depth of field.
+
+Lighting & Color Grading:
+Natural warm-brunette daylight falling softly across her face, subtle highlights on her skin, gentle shadows beneath the hood, and a cinematic balance of cool charcoal blues and warm earthy skin tones. Muted, desaturated color palette with deep blacks, subtle film grain, and rich tonal contrast.
+
+Camera & Technical Details:
+Shot on an 85mm portrait lens at f/1.2, extreme shallow depth of field, precise eye focus, creamy optical bokeh, cinematic subject isolation, natural skin texture, realistic individual hair strands, authentic fabric details, professional full-frame photography, premium fashion campaign aesthetic.
+
+Overall Aesthetic: Luxury streetwear editorial, candid European street photography, understated cinematic mood, photorealistic, sophisticated, atmospheric, and effortlessly fashionable.
+
+Aspect Ratio: 4:5 | Style: Photorealistic Editorial Photography
+```
+
+---
+
+<a id="gpt-image-2-6-case-264"></a>
+### Fall 264: [Modeporträt mit Gesichtsreferenz und Ringlicht](https://x.com/Naiknelofar788/status/2118922441032700283) (von [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+**Eingabe:** Lade ein Gesichtsreferenzbild hoch, das du verwenden darfst. Das Referenzbild liegt in der Lieferung nicht als separate Datei vor.
+
+Das Frauenporträt entspricht der Pose und dem Styling aus dem Prompt. Im Beitrag ist auch ein Männerporträt zu sehen, das hier nicht dazugehört.
+
+| Ausgabe |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg" width="240" alt="Modeporträt mit kreisförmigem Konturlicht"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-photorealistic, premium DSLR-style fashion portrait in 8K Ultra HD, vertical 4:6 aspect ratio, suitable for a FayMas profile. Closely match the reference image’s pose, outfit, accessories, lighting, and background.
+
+FACE IDENTITY:
+Use my uploaded original photo as the ONLY facial reference. Preserve my exact recognizable face, natural skin tone, face shape, eyes, nose, lips, jawline, and facial proportions. No face swapping, reshaping, whitening, plastic skin, or excessive beauty filters. Maintain realistic skin texture.
+
+HAIR & ACCESSORIES:
+Long, straight black hair in a high ponytail with a few loose strands. Round black-lens sunglasses with thin metallic frames, small stud earrings, black smartwatch, and silver bangle.
+
+OUTFIT:
+Oversized navy-blue sweatshirt with black raglan sleeves and a vintage “BROOKLYN — NEW YORK — EST. 1998” eagle graphic. Black distressed cargo jeans with realistic ripped details.
+
+POSE & EXPRESSION:
+Three-quarter portrait from head to upper thighs. One arm crossing the waist, the other hand holding the opposite sleeve. Relaxed shoulders, confident posture, head slightly turned sideways, closed lips, and a calm, stylish expression. Anatomically correct hands and fingers.
+
+BACKGROUND & LIGHTING:
+Dark charcoal-black studio background with subtle cinematic smoke. A bright white circular ring light behind the head creates a halo effect and soft rim lighting on the hair and shoulders. Professional studio lighting, realistic shadows, sharp focus, balanced contrast, and detailed fabric texture.
+
+QUALITY:
+Ultra-photorealistic 8K UHD, professional DSLR photography, crisp details, realistic colors, cinematic contrast, premium fashion aesthetic, vertical composition.
+
+NEGATIVE PROMPT:
+Different face, altered identity, distorted facial features, artificial whitening, plastic skin, overexposure, excessive smoothing, cartoon, painting, blur, extra fingers, deformed hands, extra arms, incorrect anatomy, distorted sunglasses, garbled text, low resolution, watermark, unwanted logos.
+```
+
+---
+
+<a id="gpt-image-2-6-case-265"></a>
+### Fall 265: [Künstlerische Cover zum Winterbeginn](https://x.com/DeepBlueX0/status/2118893793797914959) (von [@DeepBlueX0](https://x.com/DeepBlueX0))
+
+**Eingabe:** Der veröffentlichte Prompt verlangt kein Referenzbild.
+
+Der Urheber bezeichnet das erste Bild als Chat-Modus und das zweite als Arbeitsmodus. Die Bezeichnungen stammen aus seinem Beitrag.
+
+| Ausgabe | Ausgabe 2 |
+| --- | --- |
+| <strong>Chat-Modus</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783198924800.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783198924800.jpg" width="120" alt="Chat-Modus"></a> | <strong>Arbeitsmodus</strong><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783211548672.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783211548672.jpg" width="120" alt="Arbeitsmodus"></a> |
+
+**Prompt:**
+
+```
+極簡東方 × 宋式美學 × 時令詩意 × 獨立藝術封面 × 東方自然意境
+中國農歷節氣：立冬
+視覺主體：根據節氣特徵，選擇3種最具節氣代表性與視覺美感的瓜果蔬菜、動物或自然現象。
 ```
 
 ---

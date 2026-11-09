@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG와 GIF 예시를 담은 GPT Image 2.6 손그림 배너"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![브라우저에서 GPT Image 2.6 사용해 보기](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![전문을 수록한 프롬프트 260개](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![브라우저에서 GPT Image 2.6 사용해 보기](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![전문을 수록한 프롬프트 265개](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 소개
 
-**GPT Image 2.6 최신 소식과 프롬프트 전문 260개: 2.6 사례 10개와 일곱 제작 분야의 기존 GPT Image 2.5 프롬프트 250개를 수록했습니다.** 인물 사진, 캐릭터 설정, 일러스트, 광고, 여행 기록, 이미지 편집, 연속 그림과 스토리보드에서 원하는 사례를 찾아보세요. 각 사례에는 프롬프트 원문, 제작자 출처, 관련 이미지·영상이 포함되어 있습니다.
+**GPT Image 2.6 최신 소식과 프롬프트 전문 265개: 2.6 사례 15개와 일곱 제작 분야의 기존 GPT Image 2.5 프롬프트 250개를 수록했습니다.** 인물 사진, 캐릭터 설정, 일러스트, 광고, 여행 기록, 이미지 편집, 연속 그림과 스토리보드에서 원하는 사례를 찾아보세요. 각 사례에는 프롬프트 원문, 제작자 출처, 관련 이미지·영상이 포함되어 있습니다.
 
 기존 250개는 제작자 52명이 공개한 X 게시물 238개에서 수집했습니다. 새 2.6 사례는 공식 문서와 제작자의 보고를 구분하며, 이전 2.5 사례는 원래 출처를 유지합니다. 사용 모델 표기는 제작자의 설명을 따르며, 예시를 독립적으로 재생성하여 검증하지는 않았습니다. 참조 이미지, 설정, 후속 편집에 따라 결과가 달라질 수 있습니다.
 
@@ -29,6 +29,7 @@
 <a id="news"></a>
 ## 📰 업데이트
 
+- **2026-11-09:** 11월 8일 R22 자료에서 잡지 표지, 명소 주변의 거리 사진, 패션 인물 사진, 입동을 주제로 한 프롬프트 전문 5개를 추가했습니다. 데모 갤러리에는 제작자의 GIF 예시 2개를 더했습니다.
 - **2026-11-07:** 반복 재생되는 애니메이션풍 만화경 영상을 위한 작성자 프롬프트 전문 1개를 추가했습니다. GPT Image 2.6 사례는 10개, 전체 프롬프트는 260개입니다.
 - **2026-11-06:** 갤러리 포스터, 캐릭터 GIF, 원 표시 기반 편집을 위한 제작자 프롬프트 전문 5개를 추가했습니다. 2.6 사례는 9개, 전체 프롬프트는 259개입니다. 기존 프롬프트 원문과 사례 번호는 그대로 유지했습니다.
 - **2026-11-05:** 전문이 공개된 2.6 프롬프트 사례 4개와 아래의 공식 SVG 예시를 추가했습니다. 기존 250개 프롬프트는 GPT Image 2.5 출처 표기를 유지합니다.
@@ -36,11 +37,11 @@
 
 **최신 프롬프트 전문부터 사용해 보기**
 
-| 최신 캐릭터 애니메이션 | 갤러리 포스터와 원 표시 편집 |
+| 잡지 표지 | 여행과 인물 사진 |
 | --- | --- |
-| [애니메이션풍 만화경 루프 영상](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="애니메이션풍 만화경 영상 미리보기"> | [바로크 겨울 포스터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="제작자의 눈사람 갤러리 포스터"> |
-| [스트레칭 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-256) · [밥 먹는 스티커](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-257) · [눈을 깜박이는 캐릭터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259) | [원 표시 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [백악관 주위 회전](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251) · [차를 든 인물 비교](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-254) | [꽃 제거](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-252) · [눈 내리는 광고판](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [야외 스포츠 잡지 표지](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="스노보드 표지"> | [명소가 보이는 향수 어린 거리 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="돔이 있는 명소 근처의 거리"> |
+| [입동을 그린 아트 표지](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-265) | [영화 같은 스트리트웨어 화보 인물 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-263) · [원형 조명을 활용한 패션 인물 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [애니메이션풍 만화경 루프 영상](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-260) | [바로크 겨울 포스터](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[데모 갤러리](#demo-wall)** · [GIF 애니메이션](#demo-gif) · [SVG 벡터 그래픽](#demo-svg)
 
@@ -54,7 +55,7 @@
 - [📰 업데이트](#news)
 - [🎞️ 데모 갤러리](#demo-wall)
 
-- **[GPT Image 2.6 — 최신](cases/ko/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — 최신](cases/ko/gpt-image-2-6.md)** · 15
   - [사례 251: 백악관 주위 회전 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [사례 252: 주변 장면을 유지하며 꽃 제거](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [사례 253: 눈 내리는 저녁의 광고판 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@
   - [사례 258: 원 표시로 지정하는 캐릭터 크리스마스 편집](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [사례 259: 눈을 깜박이며 흔들리는 캐릭터 애니메이션](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [사례 260: 애니메이션풍 만화경 루프 영상](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [사례 261: 야외 스포츠 잡지 표지](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [사례 262: 명소가 보이는 향수 어린 거리 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [사례 263: 영화 같은 스트리트웨어 화보 인물 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [사례 264: 원형 조명을 활용한 패션 인물 사진](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [사례 265: 입동을 그린 아트 표지](cases/ko/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[인물 사진·포토그래피](cases/ko/portraits.md)** · 51
   - [사례 1: 폭포 앞 흰 셔츠 인물 사진](cases/ko/portraits.md#portraits-case-1)
   - [사례 2: 떨어진 휴대전화 시점의 자연스러운 순간](cases/ko/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@
 <a id="demo-wall"></a>
 ## 🎞️ 데모 갤러리
 
-GIF 데모 10개와 SVG 예시 4개를 볼 수 있습니다. 갤러리 항목은 전체 프롬프트 컬렉션과 별도로 집계합니다.
+GIF 데모 12개와 SVG 예시 4개를 볼 수 있습니다. 갤러리 항목은 전체 프롬프트 컬렉션과 별도로 집계합니다.
 
 <a id="demo-gif"></a>
 ### GIF 애니메이션
@@ -343,6 +349,22 @@ GIF 데모 10개와 SVG 예시 4개를 볼 수 있습니다. 갤러리 항목은
 반복 애니메이션은 페이지에서 재생됩니다. 동영상 미리보기를 선택하면 비교 결과나 작업 과정을 볼 수 있습니다.
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[픽셀 캐릭터와 스프라이트 시트](https://x.com/Mayz1169/status/2119108577927548944)** — 제작 [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="픽셀 캐릭터와 스프라이트 시트">
+
+</td>
+<td width="50%" valign="top">
+
+**[움직이는 캐릭터 포스터 제작 과정](https://x.com/Leviwoyun/status/2118991862564262140)** — 제작 [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="동영상 재생 · 움직이는 캐릭터 포스터 제작 과정"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

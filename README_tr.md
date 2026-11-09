@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG ve GIF örnekleri içeren el çizimi GPT Image 2.6 afişi"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.6 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 eksiksiz istem](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.6 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265 eksiksiz istem](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 Giriş
 
-**GPT Image 2.6 güncellemeleri ve 260 eksiksiz istem: 2.6 için on örnek ve yedi yaratıcı görevi kapsayan özgün 250 GPT Image 2.5 istemi.** Portreleri, karakter paftalarını, illüstrasyonları, reklamları, gezi günlüklerini, görsel düzenlemelerini ve sıralı sahneleri keşfedin. Her örnek özgün istemi, üretici bilgisini ve ilgili medyayı içerir.
+**GPT Image 2.6 güncellemeleri ve 265 eksiksiz istem: 2.6 için on beş örnek ve yedi yaratıcı görevi kapsayan özgün 250 GPT Image 2.5 istemi.** Portreleri, karakter paftalarını, illüstrasyonları, reklamları, gezi günlüklerini, görsel düzenlemelerini ve sıralı sahneleri keşfedin. Her örnek özgün istemi, üretici bilgisini ve ilgili medyayı içerir.
 
 Özgün 250 istemlik derleme, 52 üreticinin X üzerindeki 238 herkese açık paylaşımından oluşur. Yeni 2.6 örneklerinde resmî belgeler ile üretici beyanları ayrı belirtilir; önceki 2.5 örneklerinin özgün model bilgileri korunur. Model bilgisi üreticilerin beyanlarına dayanır; örnekler bağımsız olarak yeniden üretilmemiştir. Referans görseller, ayarlar ve sonradan yapılan düzenlemeler sonuçları etkileyebilir.
 
@@ -29,6 +29,7 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 <a id="news"></a>
 ## 📰 Güncellemeler
 
+- **2026-11-09:** 8 Kasım tarihli R22 tesliminden beş eksiksiz istem eklendi. Bu istemler dergi kapaklarını, simge yapıların çevresindeki sokak fotoğraflarını, moda portrelerini ve kışın başlangıcını konu alıyor. Üreticilerin yayımladığı iki GIF demosu galeriye eklendi.
 - **2026-11-07:** Döngüsel bir anime kaleydoskop animasyonu için üreticinin yayımladığı eksiksiz bir istem eklendi. Derlemede artık on 2.6 örneği ve 260 eksiksiz istem var.
 - **2026-11-06:** Galeri posterleri, karakter GIF’leri ve dairelerle yönlendirilen düzenlemeler için üreticilerin yayımladığı beş eksiksiz istem eklendi. Derlemede artık dokuz 2.6 örneği ve 259 eksiksiz istem var; özgün istemler ve örnek numaraları değişmedi.
 - **2026-11-05:** Dört eksiksiz 2.6 istem örneği ve aşağıdaki resmî SVG örnekleri eklendi. Önceki 250 istemin GPT Image 2.5 model bilgisi korunuyor.
@@ -36,11 +37,11 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 
 **En yeni eksiksiz istemlerle başlayın**
 
-| En yeni karakter animasyonu | Galeri posteri ve işaretlemeyle düzenleme |
+| Dergi kapakları | Gezi ve portreler |
 | --- | --- |
-| [Döngüsel anime kaleydoskopu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="Anime kaleydoskop animasyonu önizlemesi"> | [Barok kış posterleri](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Kardan adamlı galeri posteri"> |
-| [Esneme animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Pilav yiyen çıkartma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Göz kırpan karakter](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Dairelerle yönlendirilen Noel düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Çay Portresi Sürüm Karşılaştırması](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Sahneyi Koruyarak Çiçeği Kaldırma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Reklam Panosunu Karlı Akşama Dönüştürme](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [Açık Hava Sporları İçin Dergi Kapakları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="Snowboard kapağı"> | [Simge Yapıların Çevresinde Nostaljik Sokak Fotoğrafları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="Kubbeli bir simge yapının yakınındaki sokak"> |
+| [Kışın Başlangıcını Anlatan Sanat Kapakları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-265) | [Sinematik Sokak Modası Portresi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-263) · [Yüz Referanslı ve Halka Işıklı Moda Portresi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [Döngüsel anime kaleydoskopu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-260) | [Barok kış posterleri](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[Demo galerisi](#demo-wall)** · [GIF animasyonları](#demo-gif) · [SVG vektör grafikleri](#demo-svg)
 
@@ -54,7 +55,7 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 - [📰 Güncellemeler](#news)
 - [🎞️ Demo galerisi](#demo-wall)
 
-- **[GPT Image 2.6 — En Yeni](cases/tr/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — En Yeni](cases/tr/gpt-image-2-6.md)** · 15
   - [Örnek 251: Beyaz Saray Çevresinde Dönüş Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [Örnek 252: Sahneyi Koruyarak Çiçeği Kaldırma](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [Örnek 253: Reklam Panosunu Karlı Akşama Dönüştürme](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
   - [Örnek 258: Dairelerle Yönlendirilen Noel Karakter Düzenlemesi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [Örnek 259: Göz Kırpan ve Sallanan Karakter Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [Örnek 260: Döngüsel Anime Kaleydoskop Animasyonu](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [Örnek 261: Açık Hava Sporları İçin Dergi Kapakları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [Örnek 262: Simge Yapıların Çevresinde Nostaljik Sokak Fotoğrafları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [Örnek 263: Sinematik Sokak Modası Portresi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [Örnek 264: Yüz Referanslı ve Halka Işıklı Moda Portresi](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [Örnek 265: Kışın Başlangıcını Anlatan Sanat Kapakları](cases/tr/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[Portre ve Fotoğraf](cases/tr/portraits.md)** · 51
   - [Örnek 1: Beyaz Gömlekli Şelale Portresi](cases/tr/portraits.md#portraits-case-1)
   - [Örnek 2: Düşen Telefon Açısından Doğal Çekim](cases/tr/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 <a id="demo-wall"></a>
 ## 🎞️ Demo galerisi
 
-10 GIF demosunu ve 4 SVG örneğini keşfedin. Galeri, tam istem koleksiyonundan ayrı sayılır.
+12 GIF demosunu ve 4 SVG örneğini keşfedin. Galeri, tam istem koleksiyonundan ayrı sayılır.
 
 <a id="demo-gif"></a>
 ### GIF animasyonları
@@ -343,6 +349,22 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 Döngülü önizlemeler sayfada oynar. Karşılaştırmayı veya iş akışını görmek için video küçük resmini seçin.
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[Piksel karakter ve sprite sayfası](https://x.com/Mayz1169/status/2119108577927548944)** — hazırlayan [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="Piksel karakter ve sprite sayfası">
+
+</td>
+<td width="50%" valign="top">
+
+**[Animasyonlu karakter posteri hazırlama akışı](https://x.com/Leviwoyun/status/2118991862564262140)** — hazırlayan [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="Videoyu oynatın · Animasyonlu karakter posteri hazırlama akışı"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
