@@ -1971,5 +1971,45 @@
       "gpt26-2118665755994546650"
     ],
     "ingested_at": "2026-11-07"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2119083132691615772",
+    "tweet_id": "2119083132691615772",
+    "case_ids": [
+      "gpt26-2119083132691615772"
+    ],
+    "ingested_at": "2026-11-09"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2118968665769197976",
+    "tweet_id": "2118968665769197976",
+    "case_ids": [
+      "gpt26-2118968665769197976"
+    ],
+    "ingested_at": "2026-11-09"
+  },
+  {
+    "tweet_url": "https://x.com/Goodmanprotocol/status/2118925189329420653",
+    "tweet_id": "2118925189329420653",
+    "case_ids": [
+      "gpt26-2118925189329420653"
+    ],
+    "ingested_at": "2026-11-09"
+  },
+  {
+    "tweet_url": "https://x.com/Naiknelofar788/status/2118922441032700283",
+    "tweet_id": "2118922441032700283",
+    "case_ids": [
+      "gpt26-2118922441032700283"
+    ],
+    "ingested_at": "2026-11-09"
+  },
+  {
+    "tweet_url": "https://x.com/DeepBlueX0/status/2118893793797914959",
+    "tweet_id": "2118893793797914959",
+    "case_ids": [
+      "gpt26-2118893793797914959"
+    ],
+    "ingested_at": "2026-11-09"
   }
 ]

@@ -1,8 +1,8 @@
 # GPT Image 2.6 — 最新提示词案例
 
-[← 全部 260 条提示词](../../README_zh-CN.md)
+[← 全部 265 条提示词](../../README_zh-CN.md)
 
-十条完整公开提示词：两个官方编辑示例，以及八个涵盖动画、编辑、海报与版本对比的创作者提示词。原有 250 个 GPT Image 2.5 案例保留原编号。
+十五条完整公开提示词，包括两个官方编辑示例和十三条创作者提示词，涵盖动画、编辑、海报、人像和旅行摄影。原有 250 个 GPT Image 2.5 案例保留原编号。
 
 ## 目录
 
@@ -16,6 +16,11 @@
   - [案例 258: 圈选角色圣诞编辑](#gpt-image-2-6-case-258)
   - [案例 259: 角色眨眼轻晃动画](#gpt-image-2-6-case-259)
   - [案例 260: 循环动漫万花筒动画](#gpt-image-2-6-case-260)
+  - [案例 261: 户外运动杂志封面](#gpt-image-2-6-case-261)
+  - [案例 262: 怀旧地标街景摄影](#gpt-image-2-6-case-262)
+  - [案例 263: 电影感街头时装肖像](#gpt-image-2-6-case-263)
+  - [案例 264: 环形灯参考时装肖像](#gpt-image-2-6-case-264)
+  - [案例 265: 立冬宋式艺术封面](#gpt-image-2-6-case-265)
 
 <a id="gpt-image-2-6-case-251"></a>
 ### 案例 251: [白宫环绕动画](https://x.com/nima2qisi2/status/2118295936606798006) (作者 [@nima2qisi2](https://x.com/nima2qisi2))
@@ -247,6 +252,188 @@ ANIMATION: Keep the overall composition stationary while all five character inst
 LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop.
 
 No text, logos, subtitles or additional characters.
+```
+
+---
+
+<a id="gpt-image-2-6-case-261"></a>
+### 案例 261: [户外运动杂志封面](https://x.com/Goodmanprotocol/status/2119083132691615772) (作者 [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**输入:** 指定一项运动、一个主体或一个创意。公开提示词接受文字描述。
+
+创作者展示了单板滑雪和帆船两张杂志封面，均使用大字号排版。
+
+| 输出 | 输出 2 |
+| --- | --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="单板滑雪封面"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083118611304448.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083118611304448.jpg" width="120" alt="帆船封面"></a> |
+
+**提示词:**
+
+```
+Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+TYPOGRAPHIC DESIGN:
+
+- Add an enormous, bold, uppercase headline featuring the main subject or activity.
+- Use condensed extra-bold sans-serif typography.
+- Position the headline across the lower-middle portion of the poster.
+- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+- Choose typography colors that contrast beautifully with the photograph.
+- Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+- Small uppercase category label at the top.
+- Edition number: EDITION 01.
+- Small subtitle describing the activity or environment.
+- Minimalist footer branding: VISUAL STUDIES.
+- Short editorial tagline: THE ART OF [MAIN SUBJECT].
+- Subtle technical coordinates or location details where appropriate.
+
+VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.
+```
+
+---
+
+<a id="gpt-image-2-6-case-262"></a>
+### 案例 262: [怀旧地标街景摄影](https://x.com/Naiknelofar788/status/2118968665769197976) (作者 [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+**输入:** 将 [LANDMARK / CITY / COUNTRY] 替换为目的地。
+
+创作者用同一个提示词模板展示了三个不同地标附近的街景。
+
+| 输出 | 输出 2 |
+| --- | --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="圆顶地标附近的街景"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646450257920.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646450257920.jpg" width="120" alt="埃菲尔铁塔附近的街景"></a> |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646479581184.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646479581184.jpg" width="120" alt="塔楼附近的街景"></a> |  |
+
+**提示词:**
+
+```
+Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods.
+
+Instead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination.
+
+The iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame.
+
+Photography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain.
+
+Mood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic.
+
+Camera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures.
+
+Vertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.
+```
+
+---
+
+<a id="gpt-image-2-6-case-263"></a>
+### 案例 263: [电影感街头时装肖像](https://x.com/Goodmanprotocol/status/2118925189329420653) (作者 [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+**输入:** 公开提示词未要求提供参考图。
+
+创作者展示了一张戴兜帽的人像特写，背景是虚化的街头人群。
+
+| 输出 |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118925178583572480.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118925178583572480.jpg" width="240" alt="戴兜帽的街头时装人像"></a> |
+
+**提示词:**
+
+```
+Cinematic Streetwear Editorial Portrait
+
+Create an ultra-realistic, high-end fashion editorial photograph of a beautiful young European woman in her early 20s, captured in a candid close-up street-style portrait. She has naturally fair skin, delicate facial features, expressive light hazel-green eyes, softly defined lips, and long, voluminous dark brunette hair falling naturally around her face, with a few loose strands crossing her forehead.
+
+Outfit & Styling:
+She wears an oversized, washed-black heavyweight hoodie with the hood pulled over her head. The hoodie features a subtle, minimalist embroidered logo on the chest, with a relaxed silhouette and premium cotton texture. Her styling is effortlessly understated, contemporary, and editorial.
+
+Pose & Expression:
+Standing still in a crowded urban environment, she looks directly into the camera with a calm, slightly mysterious, emotionally neutral expression. Her head is subtly turned, shoulders relaxed, and hair moves naturally across her face. Capture an authentic, spontaneous street-photography moment.
+
+Environment & Composition:
+A softly blurred crowd of people surrounds her, creating layered foreground and background depth. Include out-of-focus figures wearing dark clothing, with warm skin tones and indistinct urban surroundings. Keep the woman perfectly sharp and visually separated from the environment through shallow depth of field.
+
+Lighting & Color Grading:
+Natural warm-brunette daylight falling softly across her face, subtle highlights on her skin, gentle shadows beneath the hood, and a cinematic balance of cool charcoal blues and warm earthy skin tones. Muted, desaturated color palette with deep blacks, subtle film grain, and rich tonal contrast.
+
+Camera & Technical Details:
+Shot on an 85mm portrait lens at f/1.2, extreme shallow depth of field, precise eye focus, creamy optical bokeh, cinematic subject isolation, natural skin texture, realistic individual hair strands, authentic fabric details, professional full-frame photography, premium fashion campaign aesthetic.
+
+Overall Aesthetic: Luxury streetwear editorial, candid European street photography, understated cinematic mood, photorealistic, sophisticated, atmospheric, and effortlessly fashionable.
+
+Aspect Ratio: 4:5 | Style: Photorealistic Editorial Photography
+```
+
+---
+
+<a id="gpt-image-2-6-case-264"></a>
+### 案例 264: [环形灯参考时装肖像](https://x.com/Naiknelofar788/status/2118922441032700283) (作者 [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+**输入:** 上传一张你有权使用的面部参考图。交付资料未单独提供原始参考图。
+
+女性人像符合提示词描述的姿势和造型。原帖另有一张男性人像，本案例展示的是女性人像。
+
+| 输出 |
+| --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg" width="240" alt="环形轮廓光时装人像"></a> |
+
+**提示词:**
+
+```
+Create an ultra-photorealistic, premium DSLR-style fashion portrait in 8K Ultra HD, vertical 4:6 aspect ratio, suitable for a FayMas profile. Closely match the reference image’s pose, outfit, accessories, lighting, and background.
+
+FACE IDENTITY:
+Use my uploaded original photo as the ONLY facial reference. Preserve my exact recognizable face, natural skin tone, face shape, eyes, nose, lips, jawline, and facial proportions. No face swapping, reshaping, whitening, plastic skin, or excessive beauty filters. Maintain realistic skin texture.
+
+HAIR & ACCESSORIES:
+Long, straight black hair in a high ponytail with a few loose strands. Round black-lens sunglasses with thin metallic frames, small stud earrings, black smartwatch, and silver bangle.
+
+OUTFIT:
+Oversized navy-blue sweatshirt with black raglan sleeves and a vintage “BROOKLYN — NEW YORK — EST. 1998” eagle graphic. Black distressed cargo jeans with realistic ripped details.
+
+POSE & EXPRESSION:
+Three-quarter portrait from head to upper thighs. One arm crossing the waist, the other hand holding the opposite sleeve. Relaxed shoulders, confident posture, head slightly turned sideways, closed lips, and a calm, stylish expression. Anatomically correct hands and fingers.
+
+BACKGROUND & LIGHTING:
+Dark charcoal-black studio background with subtle cinematic smoke. A bright white circular ring light behind the head creates a halo effect and soft rim lighting on the hair and shoulders. Professional studio lighting, realistic shadows, sharp focus, balanced contrast, and detailed fabric texture.
+
+QUALITY:
+Ultra-photorealistic 8K UHD, professional DSLR photography, crisp details, realistic colors, cinematic contrast, premium fashion aesthetic, vertical composition.
+
+NEGATIVE PROMPT:
+Different face, altered identity, distorted facial features, artificial whitening, plastic skin, overexposure, excessive smoothing, cartoon, painting, blur, extra fingers, deformed hands, extra arms, incorrect anatomy, distorted sunglasses, garbled text, low resolution, watermark, unwanted logos.
+```
+
+---
+
+<a id="gpt-image-2-6-case-265"></a>
+### 案例 265: [立冬宋式艺术封面](https://x.com/DeepBlueX0/status/2118893793797914959) (作者 [@DeepBlueX0](https://x.com/DeepBlueX0))
+
+**输入:** 公开提示词未要求提供参考图。
+
+创作者将第一张标为聊天模式，第二张标为工作模式。这里沿用创作者的模式标签。
+
+| 输出 | 输出 2 |
+| --- | --- |
+| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783198924800.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783198924800.jpg" width="120" alt="聊天模式"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783211548672.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118893783211548672.jpg" width="120" alt="工作模式"></a> |
+
+**提示词:**
+
+```
+極簡東方 × 宋式美學 × 時令詩意 × 獨立藝術封面 × 東方自然意境
+中國農歷節氣：立冬
+視覺主體：根據節氣特徵，選擇3種最具節氣代表性與視覺美感的瓜果蔬菜、動物或自然現象。
 ```
 
 ---

@@ -1,5 +1,9 @@
 # Updates
 
+## 2026-11-09
+
+Added five complete GPT Image 2.6 prompts from the November 8 R22 delivery and two creator GIF demos. The catalog has 265 prompts, including 15 GPT Image 2.6 cases. The Demo Wall has 12 GIF examples and four SVG examples.
+
 ## 2026-11-08
 
 Added a GPT Image 2.6 Demo Wall in all 11 languages with ten GIF demos and four SVG examples. The SVG section includes two OpenAI vector files and two community workflow videos. Each item links to its original source. The prompt collection contains 260 cases.

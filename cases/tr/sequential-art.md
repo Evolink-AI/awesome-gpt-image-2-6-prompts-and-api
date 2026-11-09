@@ -1,6 +1,6 @@
 # Sıralı Sahneler ve Hikâye Panoları
 
-[← 260 istemin tamamı](../../README_tr.md)
+[← 265 istemin tamamı](../../README_tr.md)
 
 İçerik üreticisinin görsellerini ve özgün istemin tamamını görmek için bir örnek seçin. İstemler özgün dillerinde korunmuştur.
 

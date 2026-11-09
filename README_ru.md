@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="Рисованный баннер GPT Image 2.6 с примерами SVG и GIF"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Попробовать GPT Image 2.6 в браузере](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 полных промптов](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Попробовать GPT Image 2.6 в браузере](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265 полных промптов](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 Введение
 
-**Обновления GPT Image 2.6 и 260 полных промптов: десять примеров для 2.6 и исходные 250 промптов GPT Image 2.5 для семи творческих задач.** Здесь есть портреты, листы персонажей, иллюстрации, реклама, путевые дневники, редактирование изображений и последовательные сцены. Каждый пример содержит исходный промпт, указание автора и связанные материалы.
+**Обновления GPT Image 2.6 и 265 полных промптов: пятнадцать примеров для 2.6 и исходные 250 промптов GPT Image 2.5 для семи творческих задач.** Здесь есть портреты, листы персонажей, иллюстрации, реклама, путевые дневники, редактирование изображений и последовательные сцены. Каждый пример содержит исходный промпт, указание автора и связанные материалы.
 
 Исходная коллекция из 250 промптов собрана из 238 публичных публикаций 52 авторов в X. В новых примерах для 2.6 отдельно указаны официальная документация и сообщения авторов; прежние примеры для 2.5 сохраняют исходное указание модели. Указание модели основано на заявлениях авторов; примеры не были независимо сгенерированы заново. На результат могут влиять референсы, настройки и последующая обработка.
 
@@ -29,6 +29,7 @@
 <a id="news"></a>
 ## 📰 Обновления
 
+- **2026-11-09:** Добавили пять полных промптов из подборки R22 за 8 ноября. Они посвящены журнальным обложкам, уличным снимкам у достопримечательностей, модным портретам и началу зимы. В галерее появились ещё две авторские демонстрации GIF.
 - **2026-11-07:** Добавлен полный авторский промпт для зацикленной анимации калейдоскопа в стиле аниме. Теперь в коллекции десять примеров для 2.6 и 260 полных промптов.
 - **2026-11-06:** Добавлены пять полных авторских промптов для галерейных постеров, GIF с персонажами и редактирования по круговым меткам. Теперь в коллекции девять примеров для 2.6 и 259 полных промптов; исходные тексты и номера примеров не изменены.
 - **2026-11-05:** Добавлены четыре примера с полными промптами для 2.6 и приведённые ниже официальные SVG-примеры. Прежние 250 промптов по-прежнему отнесены к GPT Image 2.5.
@@ -36,11 +37,11 @@
 
 **Начните с новейших полных промптов**
 
-| Новая анимация персонажей | Галерейный постер и правка по разметке |
+| Журнальные обложки | Путешествия и портреты |
 | --- | --- |
-| [Калейдоскоп в стиле аниме по кругу](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="Кадр анимации калейдоскопа в стиле аниме"> | [Зимние барочные постеры](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Галерейный постер со снеговиком"> |
-| [Анимация потягивания](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Стикер с миской риса](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Моргающий персонаж](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Праздничная правка по круговым меткам](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [Анимация облёта Белого дома](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Сравнение версий портрета с чаем](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Удаление цветка с сохранением сцены](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Заснеженный вечер на рекламном щите](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [Журнальные обложки о спорте на открытом воздухе](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="Обложка о сноубординге"> | [Ностальгические уличные снимки у достопримечательностей](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="Улица у здания с куполом"> |
+| [Художественные обложки к началу зимы](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-265) | [Кинематографичный портрет в уличном стиле](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-263) · [Модный портрет по референсу с кольцевой подсветкой](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [Калейдоскоп в стиле аниме по кругу](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-260) | [Зимние барочные постеры](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[Галерея демо](#demo-wall)** · [GIF-анимация](#demo-gif) · [Векторная графика SVG](#demo-svg)
 
@@ -54,7 +55,7 @@
 - [📰 Обновления](#news)
 - [🎞️ Галерея демо](#demo-wall)
 
-- **[GPT Image 2.6 — Новое](cases/ru/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — Новое](cases/ru/gpt-image-2-6.md)** · 15
   - [Пример 251: Анимация облёта Белого дома](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [Пример 252: Удаление цветка с сохранением сцены](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [Пример 253: Заснеженный вечер на рекламном щите](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@
   - [Пример 258: Праздничная правка персонажа по круговым меткам](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [Пример 259: Анимация моргающего и покачивающегося персонажа](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [Пример 260: Зацикленная анимация калейдоскопа в стиле аниме](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [Пример 261: Журнальные обложки о спорте на открытом воздухе](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [Пример 262: Ностальгические уличные снимки у достопримечательностей](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [Пример 263: Кинематографичный портрет в уличном стиле](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [Пример 264: Модный портрет по референсу с кольцевой подсветкой](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [Пример 265: Художественные обложки к началу зимы](cases/ru/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[Портреты и фотография](cases/ru/portraits.md)** · 51
   - [Пример 1: Портрет у водопада в белой рубашке](cases/ru/portraits.md#portraits-case-1)
   - [Пример 2: Случайный кадр с ракурса упавшего телефона](cases/ru/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@
 <a id="demo-wall"></a>
 ## 🎞️ Галерея демо
 
-В галерее 10 демонстраций GIF и 4 примера SVG. Они учитываются отдельно от коллекции полных промптов.
+В галерее 12 демонстраций GIF и 4 примера SVG. Они учитываются отдельно от коллекции полных промптов.
 
 <a id="demo-gif"></a>
 ### GIF-анимация
@@ -343,6 +349,22 @@
 Зацикленные фрагменты воспроизводятся прямо на странице. Нажмите на миниатюру видео, чтобы посмотреть сравнение или процесс работы.
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[Пиксельный персонаж и лист спрайтов](https://x.com/Mayz1169/status/2119108577927548944)** — автор [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="Пиксельный персонаж и лист спрайтов">
+
+</td>
+<td width="50%" valign="top">
+
+**[Как создавался анимированный постер с персонажем](https://x.com/Leviwoyun/status/2118991862564262140)** — автор [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="Смотреть видео · Как создавался анимированный постер с персонажем"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

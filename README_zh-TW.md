@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="GPT Image 2.6 手繪橫幅，展示 SVG 和 GIF 範例"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![在瀏覽器中試用GPT Image 2.6](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260條完整提示詞](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![在瀏覽器中試用GPT Image 2.6](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265條完整提示詞](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 簡介
 
-**GPT Image 2.6 最新消息與260條完整提示詞：收錄10個2.6案例，並保留依七種創作需求分類的原有250條GPT Image 2.5提示詞。** 可從人像、角色設定、插畫、廣告、旅行手帳、圖片編輯與連續畫面中尋找靈感。每個案例均附提示詞原文、創作者署名及相關圖片或影片。
+**GPT Image 2.6 最新消息與265條完整提示詞：收錄15個2.6案例，並保留依七種創作需求分類的原有250條GPT Image 2.5提示詞。** 可從人像、角色設定、插畫、廣告、旅行手帳、圖片編輯與連續畫面中尋找靈感。每個案例均附提示詞原文、創作者署名及相關圖片或影片。
 
 原有250條提示詞來自52位創作者的238則公開X貼文。新增2.6案例分別標示官方文件與創作者的報告，原有2.5作例保留原始歸屬。模型歸屬依據創作者的說明，尚未獨立重新生成以驗證這些作例。參考圖片、設定與後製處理都可能影響結果。
 
@@ -29,6 +29,7 @@
 <a id="news"></a>
 ## 📰 更新消息
 
+- **2026-11-09:** 收錄 11 月 8 日 R22 交付的五條完整提示詞，涵蓋雜誌封面、地標街景、時尚人像和立冬主題。Demo 牆新增兩張創作者 GIF 示範卡。
 - **2026-11-07:** 新增一條創作者公開的完整提示詞，用於製作循環播放的動漫萬花筒動畫。目前收錄10個 GPT Image 2.6 案例，共260條完整提示詞。
 - **2026-11-06:** 新增五條創作者完整提示詞，涵蓋畫框海報、角色 GIF 與圈選編輯。目前收錄九個 2.6 案例，共259條完整提示詞；原有提示詞和案例編號維持不變。
 - **2026-11-05:** 新增4個附完整公開提示詞的2.6案例，以及下方的官方SVG作例。原有250條提示詞仍保留GPT Image 2.5歸屬。
@@ -36,11 +37,11 @@
 
 **從最新完整提示詞開始**
 
-| 最新角色動畫 | 畫框海報與圈選編輯 |
+| 雜誌封面 | 旅行與人像 |
 | --- | --- |
-| [循環動漫萬花筒動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="動漫萬花筒動畫預覽"> | [巴洛克冬日海報](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="創作者雪人畫框海報"> |
-| [角色伸展動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-256) · [吃飯表情動圖](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-257) · [角色眨眼動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-259) | [圈選聖誕編輯](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [白宮環繞](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-251) · [持茶人像比較](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-254) | [花朵移除](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-252) · [雪夜廣告看板](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [戶外運動雜誌封面](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="單板滑雪封面"> | [懷舊地標街景攝影](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="圓頂地標附近的街景"> |
+| [立冬宋式藝術封面](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-265) | [電影感街頭時尚人像](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-263) · [環形燈參考時尚人像](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [循環動漫萬花筒動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-260) | [巴洛克冬日海報](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[Demo 牆](#demo-wall)** · [GIF 動畫](#demo-gif) · [SVG 向量圖](#demo-svg)
 
@@ -54,7 +55,7 @@
 - [📰 更新消息](#news)
 - [🎞️ Demo 牆](#demo-wall)
 
-- **[GPT Image 2.6 — 最新](cases/zh-TW/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — 最新](cases/zh-TW/gpt-image-2-6.md)** · 15
   - [案例 251: 白宮環繞動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [案例 252: 保留場景的花朵移除](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [案例 253: 雪夜廣告看板編輯](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@
   - [案例 258: 圈選角色聖誕編輯](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [案例 259: 角色眨眼輕晃動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [案例 260: 循環動漫萬花筒動畫](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [案例 261: 戶外運動雜誌封面](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [案例 262: 懷舊地標街景攝影](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [案例 263: 電影感街頭時尚人像](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [案例 264: 環形燈參考時尚人像](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [案例 265: 立冬宋式藝術封面](cases/zh-TW/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[人像與攝影](cases/zh-TW/portraits.md)** · 51
   - [案例 1: 瀑布前的白襯衫人像](cases/zh-TW/portraits.md#portraits-case-1)
   - [案例 2: 手機掉落視角的自然抓拍](cases/zh-TW/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@
 <a id="demo-wall"></a>
 ## 🎞️ Demo 牆
 
-這裡有 10 個 GIF 示範和 4 個 SVG 範例，與完整提示詞案例分開計數。
+這裡有 12 個 GIF 示範和 4 個 SVG 範例，與完整提示詞案例分開計數。
 
 <a id="demo-gif"></a>
 ### GIF 動畫
@@ -343,6 +349,22 @@
 循環動畫可直接在頁面上播放。點擊影片封面可觀看比較或製作流程。
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[像素角色與精靈圖集](https://x.com/Mayz1169/status/2119108577927548944)** — 作者 [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="像素角色與精靈圖集">
+
+</td>
+<td width="50%" valign="top">
+
+**[動態角色海報製作流程](https://x.com/Leviwoyun/status/2118991862564262140)** — 作者 [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="播放影片 · 動態角色海報製作流程"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 

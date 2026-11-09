@@ -2,7 +2,7 @@
 
 <a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="Hand-drawn GPT Image 2.6 banner showing SVG and GIF examples"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Try GPT Image 2.6 in Browser](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![260 complete prompts](https://img.shields.io/badge/Prompts-260-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![Try GPT Image 2.6 in Browser](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265 complete prompts](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -11,7 +11,7 @@
 <a id="introduction"></a>
 ## 🍌 Introduction
 
-**GPT Image 2.6 updates and 260 complete prompts: ten 2.6 cases, plus the original 250 GPT Image 2.5 prompts across seven creative tasks.** Browse portraits, character sheets, illustration, advertising, travel journals, image editing and sequential art. Each case includes the original prompt, creator attribution and associated media.
+**GPT Image 2.6 updates and 265 complete prompts: fifteen 2.6 cases, plus the original 250 GPT Image 2.5 prompts across seven creative tasks.** Browse portraits, character sheets, illustration, advertising, travel journals, image editing and sequential art. Each case includes the original prompt, creator attribution and associated media.
 
 The original 250-prompt collection comes from 238 public X posts by 52 creators. New 2.6 cases identify official documentation and creator reports separately; earlier 2.5 examples retain their original attribution. Model attribution follows the creators’ statements; the examples have not been independently regenerated. Reference images, settings and later editing can affect results.
 
@@ -29,6 +29,7 @@ Brand, character and celebrity examples are creator concepts, not official campa
 <a id="news"></a>
 ## 📰 News
 
+- **2026-11-09:** Added five complete prompts from the November 8 R22 delivery, covering editorial covers, landmark street photography, fashion portraits and the start of winter. Two creator GIF demos join the Demo Wall.
 - **2026-11-07:** Added one complete creator prompt for a looping anime kaleidoscope animation. The collection now has ten 2.6 cases and 260 complete prompts.
 - **2026-11-06:** Added five complete creator prompts for gallery posters, character GIFs and circle-guided editing. The collection now has nine 2.6 cases and 259 complete prompts; original prompts and case numbers remain unchanged.
 - **2026-11-05:** Added four complete 2.6 prompt cases and the official SVG examples below. The 250 earlier prompts remain attributed to GPT Image 2.5.
@@ -36,11 +37,11 @@ Brand, character and celebrity examples are creator concepts, not official campa
 
 **Start with the latest complete prompts**
 
-| Latest character animation | Gallery poster and markup edit |
+| Editorial covers | Travel and portraits |
 | --- | --- |
-| [Looping anime kaleidoscope](cases/gpt-image-2-6.md#gpt-image-2-6-case-260)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="300" alt="Creator anime kaleidoscope GIF preview"> | [Baroque winter posters](cases/gpt-image-2-6.md#gpt-image-2-6-case-255)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="300" alt="Creator snowman gallery poster"> |
-| [Stretching animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-256) · [Rice bowl sticker](cases/gpt-image-2-6.md#gpt-image-2-6-case-257) · [Blinking character](cases/gpt-image-2-6.md#gpt-image-2-6-case-259) | [Circle-guided holiday edit](cases/gpt-image-2-6.md#gpt-image-2-6-case-258) |
-| [White House orbit](cases/gpt-image-2-6.md#gpt-image-2-6-case-251) · [Tea portrait comparison](cases/gpt-image-2-6.md#gpt-image-2-6-case-254) | [Flower removal](cases/gpt-image-2-6.md#gpt-image-2-6-case-252) · [Snowy billboard](cases/gpt-image-2-6.md#gpt-image-2-6-case-253) |
+| [Outdoor Sports Editorial Covers](cases/gpt-image-2-6.md#gpt-image-2-6-case-261)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2119083106296877056.jpg" width="120" alt="Snowboarding cover"> | [Nostalgic Landmark Street Photography](cases/gpt-image-2-6.md#gpt-image-2-6-case-262)<br><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="120" alt="Street near a domed landmark"> |
+| [Start of Winter Art Covers](cases/gpt-image-2-6.md#gpt-image-2-6-case-265) | [Cinematic Streetwear Editorial Portrait](cases/gpt-image-2-6.md#gpt-image-2-6-case-263) · [Ring-Lit Reference Fashion Portrait](cases/gpt-image-2-6.md#gpt-image-2-6-case-264) |
+| [Looping anime kaleidoscope](cases/gpt-image-2-6.md#gpt-image-2-6-case-260) | [Baroque winter posters](cases/gpt-image-2-6.md#gpt-image-2-6-case-255) |
 
 **[Demo Wall](#demo-wall)** · [GIF animation](#demo-gif) · [SVG vector graphics](#demo-svg)
 
@@ -54,7 +55,7 @@ Brand, character and celebrity examples are creator concepts, not official campa
 - [📰 News](#news)
 - [🎞️ Demo Wall](#demo-wall)
 
-- **[GPT Image 2.6 — Latest](cases/gpt-image-2-6.md)** · 10
+- **[GPT Image 2.6 — Latest](cases/gpt-image-2-6.md)** · 15
   - [Case 251: White House Orbit Animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-251)
   - [Case 252: Flower Removal with Scene Preservation](cases/gpt-image-2-6.md#gpt-image-2-6-case-252)
   - [Case 253: Snowy Evening Billboard Edit](cases/gpt-image-2-6.md#gpt-image-2-6-case-253)
@@ -65,6 +66,11 @@ Brand, character and celebrity examples are creator concepts, not official campa
   - [Case 258: Circle-Guided Holiday Character Edit](cases/gpt-image-2-6.md#gpt-image-2-6-case-258)
   - [Case 259: Blinking and Swaying Character Animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-259)
   - [Case 260: Looping Anime Kaleidoscope Animation](cases/gpt-image-2-6.md#gpt-image-2-6-case-260)
+  - [Case 261: Outdoor Sports Editorial Covers](cases/gpt-image-2-6.md#gpt-image-2-6-case-261)
+  - [Case 262: Nostalgic Landmark Street Photography](cases/gpt-image-2-6.md#gpt-image-2-6-case-262)
+  - [Case 263: Cinematic Streetwear Editorial Portrait](cases/gpt-image-2-6.md#gpt-image-2-6-case-263)
+  - [Case 264: Ring-Lit Reference Fashion Portrait](cases/gpt-image-2-6.md#gpt-image-2-6-case-264)
+  - [Case 265: Start of Winter Art Covers](cases/gpt-image-2-6.md#gpt-image-2-6-case-265)
 - **[Portraits & Photography](cases/portraits.md)** · 51
   - [Case 1: White Shirt Waterfall Portrait](cases/portraits.md#portraits-case-1)
   - [Case 2: Dropped Phone Candid Perspective](cases/portraits.md#portraits-case-2)
@@ -335,7 +341,7 @@ Brand, character and celebrity examples are creator concepts, not official campa
 <a id="demo-wall"></a>
 ## 🎞️ Demo Wall
 
-Explore 10 GIF demos and 4 SVG examples. The gallery has its own count, separate from the complete prompt collection.
+Explore 12 GIF demos and 4 SVG examples. The gallery has its own count, separate from the complete prompt collection.
 
 <a id="demo-gif"></a>
 ### GIF animation
@@ -343,6 +349,22 @@ Explore 10 GIF demos and 4 SVG examples. The gallery has its own count, separate
 Looping previews play inline. Select a video thumbnail to watch a comparison or a workflow.
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[Pixel Character and Sprite Sheet](https://x.com/Mayz1169/status/2119108577927548944)** — by [@Mayz1169](https://x.com/Mayz1169)
+
+<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/pixel-character-sprite.gif" width="120" alt="Pixel Character and Sprite Sheet">
+
+</td>
+<td width="50%" valign="top">
+
+**[Animated Character Poster Workflow](https://x.com/Leviwoyun/status/2118991862564262140)** — by [@Leviwoyun](https://x.com/Leviwoyun)
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/demos/persona-motion-poster.jpg" width="120" alt="Play video · Animated Character Poster Workflow"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
