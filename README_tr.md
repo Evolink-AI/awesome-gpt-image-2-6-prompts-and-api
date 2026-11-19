@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG ve GIF örnekleri içeren el çizimi GPT Image 2.6 afişi"></a>
+<a href="https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-6-prompts-and-api&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/awesome-gpt-image-2-6-hand-drawn-banner.gif" width="760" alt="SVG ve GIF örnekleri içeren el çizimi GPT Image 2.6 afişi"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.6 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=model_try) [![265 eksiksiz istem](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) [![GPT Image 2.6 modelini tarayıcıda deneyin](https://img.shields.io/badge/Try_in-Browser-0084ff)](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-6-prompts-and-api&utm_content=model_try) [![265 eksiksiz istem](https://img.shields.io/badge/Prompts-265-14b8a6)](#menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -24,7 +24,7 @@ Marka, karakter ve ünlü kişi örnekleri üreticilerin konsept çalışmaları
 2. Girdi notunu okuyun, ardından kod bloğundaki istemin tamamını kopyalayın.
 3. İstenen referans görseli ekleyin, düzenlenebilir ayrıntıları kişiselleştirin ve modelin deneme sayfasında istemi deneyin.
 
-[Images 2.6 modelini ChatGPT içinde deneyin](https://chatgpt.com/images) · [GPT Image 2.6 modelini tarayıcıda deneyin](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=browser_try)
+[Images 2.6 modelini ChatGPT içinde deneyin](https://chatgpt.com/images) · [GPT Image 2.6 modelini tarayıcıda deneyin](https://evolink.ai/gpt-image-2-6?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gpt-image-2-6-prompts-and-api&utm_content=browser_try)
 
 <a id="news"></a>
 ## 📰 Güncellemeler
